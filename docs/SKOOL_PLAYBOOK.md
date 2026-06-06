@@ -14,14 +14,27 @@ You asked five questions. Here are the five answers, locked, with the reasoning 
 | Your question | The answer | Why (section) |
 |---|---|---|
 | **Launch now or wait for the YouTube course?** | **Launch the FREE community NOW (this week). Do NOT wait for the course.** | Your audience is *cooling*, and you already own the free content. §2 |
-| **Free or paid first?** | **Free first — unambiguously.** Use Skool's new **freemium model**: one community, free to join, paid upgrade *switched on later*. | §1, §2 |
-| **When does paid launch?** | **~Day 30–60, timed to a 5-day challenge** — not on a calendar date, on an *event*. | §2, §7 |
+| **Free or paid first?** | **Wrong question — freemium dissolves it.** One community: free to join, with a **founding paid tier live from day 1**, so free joiners see paying members immediately. | §0b, §1 |
+| **When does paid launch?** | **Founding paid: day 1** (early cash + visible proof). The conversion *event* — a paid **founding cohort** — runs **week ~2**, then monthly. | §0b, §2, §7 |
 | **What price?** | **$0 free / $29 Core / $99 Pro (added day ~90).** First 100 paid lock a **$19 founding rate forever**. | §3 |
 | **How do I keep it alive + gamified?** | **Level-lock a template vault + run weekly rituals + a monthly challenge.** The points→unlock loop *is* the anti-dead-community engine. | §5, §6 |
 
 **The one sentence that runs the whole thing:** *one freemium community, seeded so it's never empty, where free members grind points to unlock free templates and the real builds live behind a $29 tier — and a 5-day challenge converts them.*
 
 **The single biggest mistake to avoid:** launching the **paid** tier into an **empty or cold** room. Everything in §2 and §8 exists to make sure that never happens. A dead launch is almost impossible to revive; a slow-but-alive one compounds.
+
+### 0b. "But shouldn't I launch *paid* first?" — the debate, resolved
+
+The case for paid-first: launch paid so later free members see people already paying — proof the premium is worth it. **The principle is right** (paid members are far better proof than free ones; money is the only honest validation). **The execution — a $29 community launched paid-first to a standing start — is wrong**, for four reasons:
+
+1. **It's the dominated option.** A $29 paid-first community is *too small to feel alive* **and** *too cheap to be high-touch*. It loses to free-first on volume/aliveness, and loses to a high-ticket cohort on commitment. There is no axis on which it wins.
+2. **The proof is circular.** Social proof is an *output* of a working paid base, not an *input* you can front-load. Your first buyers would purchase an empty room with no track record — your coldest cohort buying your weakest product.
+3. **You already have the validation.** 13 people pay for MyHermes at 93.75% retention; 2,000 emailed *asking* for products; a reel did 1,420 comments. Supply is validated. Paid-first re-solves a solved problem.
+4. **It fights your brand.** Your winning hooks are "build it *free*" and "*stop paying*." You trained 8,500 people that you make expensive things free. A cold paywall-first move converts *worse*, not better.
+
+**The resolution (freemium makes the binary false):** launch **free to join, with a founding paid tier live and visible on day 1**, in one community. Free joiners see paying members' badges *immediately* — the exact proof you wanted — without the cold-start trap. You bank money-validation on day 1 *and* keep the volume that stops it being dead.
+
+**The one correct way to "lead with paid"** is a high-ticket, time-boxed, **live founding cohort** (not a $29 self-serve tier), where 25 committed people *is* the product. **We defer that to the $99 Pro tier (day ~90), on purpose:** leading with live high-ticket coaching bets your reputation on live-teaching skill you haven't proven yet (you're "one chapter ahead," per `STRATEGY.md` §8). Validate with money the low-risk way first; graduate to the high-ticket cohort once you have reps and testimonials. **Sequence the risk to your competence curve.**
 
 ---
 
@@ -65,30 +78,33 @@ You instinctively wanted: *YouTube course → free Skool → paid Skool.* Close.
 ### 2b. The corrected sequence (what actually happens, in order)
 
 ```
-NOW (Week 0)   SEED the free community privately. Pre-load the classroom (your guides) +
-               15–20 feed posts. Invite ~25 of your warmest DM/email people as "founding
-               members" to populate the feed. NEVER open to a ghost town. (§8a)
+NOW (Week 0)   SEED privately. Pre-load the classroom (your guides) + 15–20 feed posts +
+               PRE-BUILD 4–6 Core "debrief" videos. Invite ~25 warmest DM/email people as
+               founders to populate the feed. NEVER open to a ghost town. (§8a)
 
-Week 1         OPEN free community to all 8.5k IG + 2k emails. This is the public launch.
-               (§8b). The YouTube course is NOT required to exist yet.
+Week 1         OPEN free to join + FOUNDING PRE-SALE live from day 1: $19/mo locked for life
+               (or $190/yr), 100 spots. Push to all 8.5k IG + 2k emails. Paying members'
+               badges show in the shared feed IMMEDIATELY — that's your proof. (§8b)
+               The YouTube course is NOT required to exist yet.
+
+Week ~2        Run the FOUNDING COHORT — the 5-day "Build Your First AI Agent" sprint (§7) —
+               for the founders. Produces your first testimonials + case studies = the proof
+               that powers everything after. The cohort IS the launch event.
 
 Weeks 1–6      FILL with life + RELEASE the YouTube course episodically (1–2/wk, per
                YOUTUBE_PLAYBOOK). Each video CTA -> free Skool. The course lives in TWO
                places: public YouTube (reach/SEO) + free classroom (the funnel home). Run
                the weekly rituals (§6) so the feed is never quiet.
 
-Weeks 4–8      VALIDATE the paid offer in public. Ask the community what they'd pay to learn
-               to BUILD (not just read). Pre-build the first 4–6 paid "debrief" videos.
+~Day 30        OPEN evergreen Core ($29/mo) to everyone; the founding price retires. Run the
+               first PUBLIC monthly challenge to convert the free base. (§3, §7b)
 
-~Day 30–60     LAUNCH PAID via a 5-DAY CHALLENGE (§7). The challenge is the event that
-               converts free -> $29 Core. Switch the paid tier ON the day the challenge ends.
-               Founding-member pricing for the first 100. (§3, §8c)
-
-~Day 90        ADD the $99 Pro tier (done-with-you + corporate) once Core has a base and
-               you've proven you can deliver live. (§3)
+~Day 90        ADD $99 Pro (done-with-you + corporate + the high-ticket live cohort) once you
+               have reps, testimonials, and a Core base. This is where "lead with paid"
+               graduates to. (§3)
 ```
 
-**Why paid launches on an *event*, not a date:** passive free→paid conversion is only **1–5%**. Challenge-completer conversion is **20–35%** (`STRATEGY.md` §10b; Appendix). Launching paid "quietly one Tuesday" leaves 5–7× of your money on the table. The challenge *is* the launch.
+**Why the conversion push is an *event*, not a date:** passive free→paid conversion is only **1–5%**. Challenge-completer conversion is **20–35%** (`STRATEGY.md` §10b; Appendix). Converting "quietly one Tuesday" leaves 5–7× of your money on the table. The **day-1 founding pre-sale** captures your warmest, most-committed buyers + instant proof; the **founding cohort** (week ~2) and the monthly challenges convert everyone after.
 
 ---
 
@@ -99,8 +115,8 @@ Weeks 4–8      VALIDATE the paid offer in public. Ask the community what they'
 | Tier | Price | Who | What they get | When it turns on |
 |---|---|---|---|---|
 | **Free** | $0 | Everyone (the funnel) | The guides, the YouTube course, the community feed, gamification, level-locked free templates, the live challenges | **Day 1** |
-| **Core** | **$29/mo** (or **$290/yr** = 2 months free) | Builders who want to actually *build it*, not just read | The Nate-Herk-style **build-along video debriefs**, the **template/automation vault**, **Hermes setup help**, a **weekly group call**, tier-locked rooms | **~Day 30–60** (via challenge) |
-| **Pro** | **$99/mo** | Serious builders, freelancers, **corporates** | Everything in Core + **done-with-you build sessions**, priority support, a **private leads/job board**, **corporate workshop** access | **~Day 90** |
+| **Core** | **$29/mo** (or **$290/yr** = 2 months free); **$19 founding-for-life** at launch | Builders who want to actually *build it*, not just read | The Nate-Herk-style **build-along video debriefs**, the **template/automation vault**, **Hermes setup help**, a **weekly group call**, tier-locked rooms | **Founding pre-sale day 1**; evergreen **~day 30** |
+| **Pro** | **$99/mo** | Serious builders, freelancers, **corporates** | Everything in Core + **done-with-you sessions**, priority support, a **private leads/job board**, **corporate workshop**, **the high-ticket live cohort** | **~Day 90** |
 
 **Founding-member offer (the launch accelerant):** the **first 100** Core members lock **$19/mo for life** (or take **$190/yr**). This (a) rewards early believers, (b) creates real urgency at launch, (c) seeds your paid tier with *committed* people who actually show up and post — which is what keeps a paid community from feeling dead. Put a live counter in the launch: *"37 of 100 founding spots left."*
 
@@ -135,10 +151,10 @@ From your warm assets (8.5k IG + 2k emails) and the conversion benchmarks in `ST
 
 | Milestone | Free members | Paid (Core) | How |
 |---|---:|---:|---|
-| Launch week | **150–400** | 0 (not on yet) | 5–15% of the 2k warm emails + IG push |
-| Day 30 | 500–1,200 | 0–soft | YouTube + IG funnel; pre-sell founding spots |
-| Day 60 (1st challenge) | 1,000–2,500 | **50–150** | challenge converts 20–35% of completers |
-| Day 90 | 1,500–3,500 | **120–300** | +$99 Pro; second challenge | 
+| Launch week | **150–400** | **founding pre-sale live; first few–30** | 5–15% of the 2k warm emails + IG push + founding $19×100 |
+| Day ~30 | 500–1,200 | **30–100** | founding cohort (wk ~2) → testimonials; evergreen Core opens |
+| Day ~60 | 1,000–2,500 | **80–180** | 1st public monthly challenge (20–35% of completers) |
+| Day ~90 | 1,500–3,500 | **150–300** | +$99 Pro + high-ticket cohort; next challenge |
 | 12 months | **10–40k** (`STRATEGY.md`) | **300–800** | the compounding YouTube funnel |
 
 5,000 paid is a **2–3 year** number gated by your *free* base size, not your price (`STRATEGY.md` §2). Year one is "first few hundred paid + a large free funnel." That's not a downgrade — it's the only path that *reaches* 5,000.
@@ -259,9 +275,9 @@ Before the public launch, the community must look *lived-in*: classroom populate
 
 ## 7. The conversion engine — the 5-day challenge (free → paid)
 
-This is *the* mechanic that launches your paid tier. Passive conversion is 1–5%; **challenge-completers convert at 20–35%** (`STRATEGY.md` §10b). Run it as a **live cohort with a deadline** for urgency.
+This is *the* mechanic that converts free → paid. Passive conversion is 1–5%; **challenge-completers convert at 20–35%** (`STRATEGY.md` §10b). Run it as a **live cohort with a deadline** for urgency. **Its first run is your paid Founding Cohort** (week ~2, founders only — §2b) — that's what banks your first testimonials. After that it runs **monthly and free** as the evergreen free→Core converter.
 
-### 7a. The challenge: "Build Your First AI Agent in 5 Days (Free)"
+### 7a. The challenge: "Build Your First AI Agent in 5 Days"
 
 | Day | Lesson (short video in free classroom) | Their action (post progress → earns points) | The paid pull |
 |---|---|---|---|
@@ -277,7 +293,7 @@ This is *the* mechanic that launches your paid tier. Passive conversion is 1–5
 - **Time the paid switch-on to the challenge** — turn the Core tier live on Day 5. The challenge *is* the launch event (§2).
 
 ### 7b. Cadence
-Run a challenge **monthly**. Each one: refills the top of the funnel, re-activates lurkers, generates a wave of feed posts, and converts the warmest 20–35% to paid. It's your repeatable revenue heartbeat.
+First run = the **paid Founding Cohort** (week ~2). Thereafter run it **monthly and free**: each one refills the top of the funnel, re-activates lurkers, generates a wave of feed posts, and converts the warmest 20–35% to evergreen Core. It's your repeatable revenue heartbeat.
 
 ---
 
@@ -299,11 +315,12 @@ Run a challenge **monthly**. Each one: refills the top of the funnel, re-activat
 - **Day 3 — Email #2** (to non-openers/non-joiners): different angle — "the AI basics most people get wrong (free course inside)."
 - **All week**: post daily, reply to every intro, run the first ritual cycle (§6b). Goal: **150–400 free members and a feed that's visibly busy.**
 
-### 8c. Paid launch (~Day 30–60)
-- Announce the challenge **1 week out**; open enrollment (free) → drives a sign-up spike.
-- Run the 5-day challenge (§7). Pre-build your **first 4–6 Core debrief videos** so the tier isn't empty on day one (same rule as §6d — never launch empty, paid *or* free).
-- **Switch Core live on Day 5.** Founding $19-for-life, 100 spots, 48-hour urgency.
-- Debrief: which channel/challenge-day drove paid (UTM), and double down.
+### 8c. Paid: founding pre-sale (day 1) → founding cohort (week ~2) → evergreen (~day 30)
+- **Day 1:** open the **founding pre-sale** alongside the free community — $19/mo for life (or $190/yr), 100 spots, a live counter ("63 of 100 left"). Founders get everything as you ship it + a seat in the cohort. This banks early cash *and* puts paying badges in the feed immediately (the proof you wanted — §0b).
+- **Pre-build 4–6 Core debrief videos before day 1** so founders get value on arrival (never launch empty — §6d).
+- **Week ~2:** run the **founding cohort** (the 5-day sprint, §7) live-ish for founders → collect testimonials/case studies on Day 5.
+- **~Day 30:** retire the founding price; open **evergreen Core ($29/mo)** to everyone; run the first public monthly challenge.
+- Debrief via UTM: which channel/cohort-day drove paid → double down.
 
 ### 8d. Pro + corporate (~Day 90)
 - Add the **$99 Pro** tier once Core has a base and you've run a few live calls (proof you can deliver). Put a **"Work with me / team training"** link in your IG bio + YouTube descriptions; let content-bot's LinkedIn auto-posts (`content-bot` README) be the corporate top-of-funnel.
@@ -354,11 +371,12 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 
 | Window | Do | Outcome |
 |---|---|---|
-| **Week 0** | Create community (Pro trial), build free classroom + level-locks, seed 15–20 posts, invite 25 founders | A room that looks *alive* before anyone sees it |
-| **Week 1** | Public launch to 2k emails + 8.5k IG + AutoDM. Daily rituals begin | **150–400 free members** |
-| **Weeks 2–4** | Release YouTube course episodically → Skool. Run rituals. Pre-build 4–6 Core debriefs. Validate the paid offer in public | 500–1,200 free; offer validated |
-| **Weeks 5–8** | Announce + run **1st 5-day challenge**. **Switch Core ($29) live**, founding $19×100 | **50–150 paid**; tier proven |
-| **Weeks 9–12** | Add **$99 Pro** + corporate offer. Run **2nd challenge**. Feature member builds on YouTube | 120–300 paid; flywheel turning |
+| **Week 0** | Create community (Pro trial), build free classroom + level-locks, seed 15–20 posts, **pre-build 4–6 Core debriefs**, invite 25 founders | A room that looks *alive* before anyone sees it |
+| **Week 1** | Public launch to 2k emails + 8.5k IG + AutoDM. **Founding pre-sale live ($19×100)**. Daily rituals begin | **150–400 free + first founding-paid members (badges in the feed)** |
+| **Week ~2** | Run the **Founding Cohort** (5-day sprint) for founders → collect testimonials/case studies | **30–80 founding paid**; proof banked |
+| **Weeks 3–6** | Release YouTube course episodically → Skool. Run rituals. Feature founder builds | 500–1,200 free |
+| **~Week 5 (day 30)** | Retire founding price; open **evergreen Core ($29)**; run **1st public monthly challenge** | **80–180 paid** |
+| **Weeks 9–12** | Add **$99 Pro** + corporate + **high-ticket live cohort**. Run next challenge. Feature member builds on YouTube | **150–300 paid**; flywheel turning |
 | **Month 4+** | Monthly challenges; raise Core toward $39–49 for *new* members (grandfather founders); consider the free/paid split only if free base > 10–15k | Compounding |
 
 ---
@@ -366,7 +384,7 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 ## 12. Anti-fail checklist (why Skool communities die — and why yours won't)
 
 - **Never launch empty.** Free *or* paid — seed it first (§6d, §8c). A ghost-town first impression is fatal.
-- **Don't launch paid to a cold room.** Free first, warm for 30–60 days, convert via a challenge (§2, §7).
+- **Don't push a cold $29 wall first.** Founding paid goes to your *warm* list on day 1 (proof + early cash); the *volume* conversion comes via the cohort (wk ~2) + monthly challenges. Paid-first as a cold standalone tier is the dominated move (§0b, §7).
 - **You show up daily for 90 days.** The community mirrors your energy until the leaderboard grinders can carry it (§6c).
 - **Make the first reward trivially easy.** Level 2 = ~5 likes. The first win must come in the first session (§5b, §6a).
 - **Don't over-price for ego.** $29 for volume now; $99 Pro for margin later. Volume = life (§3b).
@@ -387,7 +405,8 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 - [ ] Invite ~25 founding members privately
 - [ ] Wire AutoDM/ManyChat keyword → UTM-tagged community link (`scripts/utm.py`)
 - [ ] Draft the 2 launch emails + the IG launch Reel/Story
-- [ ] (Day 30–60) Pre-build 4–6 Core debrief videos; set up the $29 tier + founding price; build the 5-day challenge classroom
+- [ ] (Before launch) Pre-build 4–6 Core debrief videos; set up the **founding pre-sale** ($19×100)
+- [ ] (Week ~2) Build the **founding-cohort** 5-day classroom; (~day 30) open evergreen $29 + first public challenge
 - [ ] Be on **Pro ($99)** before paid goes live
 
 **Sources (verified June 2026):**
