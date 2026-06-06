@@ -59,7 +59,7 @@ Skool added **freemium + multi-tier** monetization in late 2025. A *single* comm
 
 **Decision: launch as ONE freemium community.** `STRATEGY.md` invoked "the Nate Herk move" of a free funnel — that instinct is right, but Herk built two groups when freemium *didn't exist yet*. With freemium, you get his funnel **and** a concentrated, alive feed, for half the cost. Revisit the split only if your free base crosses ~10–15k (§11).
 
-> **Platform note:** be on the **Pro plan ($99/mo)** before you switch on paid — the tiered/level-locked monetization this playbook is built on, and the far cheaper fee structure (§3c), live there. During the free-only seeding window you *can* sit on Hobby ($9/mo) to save cash, but plan to be on Pro by paid-launch.
+> **Platform note (start cheap — you do NOT need Pro to launch):** gamification, membership **tiers**, and **level-locked courses** are included on **both** Skool plans — so the **$9 Hobby plan runs this entire playbook.** The only meaningful difference is the transaction fee (Hobby **10%+30¢** vs Pro **~2.9%+30¢**). **Hobby is cheaper below ~$1,267/mo in member payments; Pro is cheaper above it.** So: build during the **14-day trial** (full features, free) → settle on **Hobby ($9)** → upgrade to **Pro** only when payments cross **~$1,267/mo** (≈45 members at $29). See §3c.
 
 ---
 
@@ -134,7 +134,7 @@ Skool takes a cut and Stripe processes the card. The numbers (Appendix, source 1
 | **Hobby** | $9/mo | **10% + 30¢** (~$3.20) | **~$25.80** |
 | **Pro** | $99/mo | Stripe only **~2.9% + 30¢** (~$1.14) up to $899/mo sales; +1% Skool above that | **~$27.86** |
 
-**The break-even:** Hobby's percentage fee overtakes Pro's flat $99 at roughly **$1,200–1,400/mo** in sales. You'll blow past that with ~**45+ Core members** ($29 × 45 = $1,305). **So: Hobby while free-only/pre-revenue; Pro the moment paid launches.**
+**The break-even:** Hobby's percentage fee overtakes Pro's flat $99 at roughly **$1,267/mo** in sales (≈**45 members at $29**, ~67 at $19). **So: start on Hobby ($9) and stay there through free-only *and* the early founding phase; upgrade to Pro only when you cross ~$1,267/mo.** Below that, Hobby genuinely costs you less — both plans run the full tiered/level-locked model, so you lose nothing by waiting to upgrade.
 
 **What it looks like at scale (Core only, on Pro):**
 
@@ -174,7 +174,8 @@ Your raw materials, sorted into the funnel. **Nothing here needs to be created f
 - **The live challenges** run here (§7).
 
 ### 4b. CORE — $29 (the "how to actually build it" tier — Nate Herk style)
-- **Build-along video debriefs**: for each guide, a screen-recorded video where you *build the thing end to end*, narrate every click, leave a real error + the fix in. This is the "(nate herk style) explaining how to build it" you described — and it's the same footage you're already capturing for YouTube (`YOUTUBE_PLAYBOOK.md` §3). **One recording → a YouTube video AND a Core debrief.**
+- **Build-along video "debriefs"** — *the heart of the paid tier.* A **debrief = a screen-recorded video where you take one of your free written guides and build the whole thing live on camera**, narrating every click, leaving a real error + the fix in (the "(nate herk style) explaining how to build it" you described). **What's in one:** the full follow-along build + the exact prompts/configs on screen + the **copy-paste template in the vault** + the common errors & fixes. **The free guide tells them *what*; the debrief shows them *how* (so they don't get stuck) + hands them the template (saves hours) — that gap is the $29.** It's the *same footage* you record for YouTube: the polished cut goes on YouTube (reach), the complete follow-along + template goes in Core (paid). **One recording → a YouTube video AND a Core debrief** (`YOUTUBE_PLAYBOOK.md` §3).
+  - **Your first 4–6, chosen by your own AutoDM demand** (these double as your YouTube launch slate): trading bot (1,420 → YT #6), Hermes setup (932 → #13), Quit Claude Code→Hermes (732 → #1/#14), content-bot "AI posts for you" (501 → #8), AI memory that never resets (#9), automate-your-morning (#10/#11).
 - **The template/automation vault**: importable, copy-paste — Hermes configs, the trading-bot stack, content-bot, cron recipes, prompt packs. Builders pay for *the shortcut*, not the theory.
 - **Weekly group call** (recorded, posted to the classroom): build-along + Q&A + "what are you stuck on."
 - **Tier-locked rooms**: a focused builders' feed without the free-tier noise.
@@ -300,7 +301,7 @@ First run = the **paid Founding Cohort** (week ~2). Thereafter run it **monthly 
 ## 8. The launch playbook — step by step
 
 ### 8a. Pre-launch (Week 0 — private seeding, ~3–5 days)
-1. **Create the community on Skool** (start the 14-day Pro trial — full features). Name it for the outcome, not your handle — e.g., **"The Automation Lab,"** "AI Builders by gobi," or "Agent Academy." Set it **Free** to join.
+1. **Create the community on Skool** (start the **14-day free trial** — full features; settle on **Hobby $9** after, upgrade to Pro only at ~$1,267/mo — §3c). Name it for the outcome, not your handle — e.g., **"The Automation Lab,"** "AI Builders by gobi," or "Agent Academy." Set it **Free** to join.
 2. **Build the free classroom**: upload "Start Here," the AI-basics course, and your existing guides as modules. Set the **level-locks** (§5b) and **custom level names** (§5c).
 3. **Seed the feed**: write **15–20 posts** — a welcome, a poll ("what do you want to build first?"), 2–3 wins, a template drop, 3–4 genuine questions, a "introduce yourself" pinned thread.
 4. **Invite ~25 founding members** privately — your most engaged DM/email people. Ask them to introduce themselves and like each other's intros. Now the room is warm.
@@ -371,7 +372,7 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 
 | Window | Do | Outcome |
 |---|---|---|
-| **Week 0** | Create community (Pro trial), build free classroom + level-locks, seed 15–20 posts, **pre-build 4–6 Core debriefs**, invite 25 founders | A room that looks *alive* before anyone sees it |
+| **Week 0** | Create community (14-day trial → **Hobby $9**), build free classroom + level-locks, seed 15–20 posts, **pre-build 4–6 Core debriefs**, invite 25 founders | A room that looks *alive* before anyone sees it |
 | **Week 1** | Public launch to 2k emails + 8.5k IG + AutoDM. **Founding pre-sale live ($19×100)**. Daily rituals begin | **150–400 free + first founding-paid members (badges in the feed)** |
 | **Week ~2** | Run the **Founding Cohort** (5-day sprint) for founders → collect testimonials/case studies | **30–80 founding paid**; proof banked |
 | **Weeks 3–6** | Release YouTube course episodically → Skool. Run rituals. Feature founder builds | 500–1,200 free |
@@ -397,7 +398,7 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 ### Appendix — Skool setup checklist + sources
 
 **Setup checklist (in order):**
-- [ ] Create community, start 14-day Pro trial, set **Free** to join
+- [ ] Create community, start 14-day **free trial** (full features), set **Free** to join
 - [ ] Custom URL + branding (match @gobi_automates / MyHermes)
 - [ ] Classroom: "Start Here" → AI basics course → your existing guides as modules
 - [ ] Set **level-locks** on free templates (§5b) + **custom level names** (§5c)
@@ -407,7 +408,7 @@ Track weekly (add to the §13 scoreboard in `STRATEGY.md`):
 - [ ] Draft the 2 launch emails + the IG launch Reel/Story
 - [ ] (Before launch) Pre-build 4–6 Core debrief videos; set up the **founding pre-sale** ($19×100)
 - [ ] (Week ~2) Build the **founding-cohort** 5-day classroom; (~day 30) open evergreen $29 + first public challenge
-- [ ] Be on **Pro ($99)** before paid goes live
+- [ ] Launch on **Hobby ($9)** (runs the whole model — tiers, level-locks, gamification); upgrade to **Pro** only when member payments cross **~$1,267/mo**
 
 **Sources (verified June 2026):**
 - Skool pricing, plans & fees (Hobby $9 / 10%+30¢; Pro $99 / ~2.9% Stripe, +1% over $899/mo; per-group; 14-day trial): [Skool official pricing](https://www.skool.com/pricing), [Kourses — Skool Pricing 2026](https://kourses.com/skool-pricing/), [SchoolMaker — Skool Pricing 2026](https://www.schoolmaker.com/blog/skool-pricing)
