@@ -5,6 +5,11 @@ The growth operating system for **@gobi_automates** and **MyHermes.cloud**.
 - **[STRATEGY.md](STRATEGY.md)** — the full plan: diagnosis from your real PostHog +
   AutoDM data, the Broad-AI→Hermes positioning, production cadence, scripts, b-roll,
   how to learn the material, the activation fix, monetization, and a 90-day timeline.
+- **[docs/YOUTUBE_PLAYBOOK.md](docs/YOUTUBE_PLAYBOOK.md)** — the YouTube engine in depth:
+  the 24-video calendar, frame-by-frame shot-lists, the Shorts engine, thumbnails, SEO.
+- **[docs/SKOOL_PLAYBOOK.md](docs/SKOOL_PLAYBOOK.md)** — the community engine in depth:
+  the launch dilemma resolved (free first, paid via challenge), freemium architecture,
+  pricing + unit economics, the gamification/anti-dead-community system, and a 90-day launch plan.
 - **[docs/AUTOMATION_ROADMAP.md](docs/AUTOMATION_ROADMAP.md)** — every automation, what it
   does, what it needs from you, and copy-paste Claude-trigger prompts.
 
