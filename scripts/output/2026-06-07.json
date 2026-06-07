@@ -1,0 +1,158 @@
+{
+  "generated_at": "2026-06-07T08:27:24.893819+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "helloianneo/ian-xiaohei-illustrations",
+        "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+        "stars": 3186,
+        "description": "\u4e2d\u6587\u5c0f\u9ed1\u602a\u8bde\u6b63\u6587\u914d\u56fe\u751f\u6210 Skill | 16:9 \u767d\u5e95\u624b\u7ed8 | \u5c11\u91cf\u7ea2\u6a59\u84dd\u6279\u6ce8 | Codex Skill",
+        "topics": [
+          "ai-agent",
+          "chinese",
+          "codex-skill",
+          "handdrawn",
+          "illustration",
+          "image-generation",
+          "xiaohei"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "op7418/guizang-social-card-skill",
+        "url": "https://github.com/op7418/guizang-social-card-skill",
+        "stars": 3031,
+        "description": "\ud83e\udea7 Claude Code / Codex skill \u2014 generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial \u00d7 Swiss visual systems, 28 layouts, 10 themes, single-file HTML \u2192 PNG. \u5c0f\u7ea2\u4e66\u56fe\u6587 + \u516c\u4f17\u53f7\u5c01\u9762\u5bf9",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "anthropic",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "editorial-design",
+          "html-template",
+          "image-generation",
+          "playwright",
+          "rednote",
+          "social-cards",
+          "swiss-design",
+          "wechat",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "nexu-io/html-video",
+        "url": "https://github.com/nexu-io/html-video",
+        "stars": 1868,
+        "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
+        "topics": [
+          "ai-agent",
+          "apache-2",
+          "coding-agent",
+          "css",
+          "ffmpeg",
+          "html",
+          "html-to-video",
+          "hyperframes",
+          "mp4",
+          "open-design",
+          "open-source",
+          "programmatic-video",
+          "video",
+          "video-as-code",
+          "video-generation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "ClaudioDrews/memory-os",
+        "url": "https://github.com/ClaudioDrews/memory-os",
+        "stars": 966,
+        "description": "A 7-layer memory operating system for Hermes Agent \u2014 persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+        "topics": [
+          "ai-memory",
+          "context-injection",
+          "docker",
+          "ground-truth",
+          "hermes-agent",
+          "local-first",
+          "open-source",
+          "persistent-memory",
+          "qdrant",
+          "rag",
+          "self-hosted",
+          "vector-database"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "withkynam/vibecode-pro-max-kit",
+        "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+        "stars": 808,
+        "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+        "topics": [
+          "agentic",
+          "ai-agents",
+          "ai-coding-assistant",
+          "ai-development",
+          "ai-workflow",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "cli-tools",
+          "code-quality",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "developer-tools",
+          "llm",
+          "openai",
+          "prompt-engineering",
+          "typescript",
+          "vibe-coding",
+          "vibecoding"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "UditAkhourii/adhd",
+        "url": "https://github.com/UditAkhourii/adhd",
+        "stars": 773,
+        "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+        "topics": [
+          "adhd",
+          "agents",
+          "ai",
+          "ai-agents",
+          "brainstorm",
+          "chain-of-thought",
+          "claude",
+          "claude-agent-sdk",
+          "creativity",
+          "divergent-thinking",
+          "ideation",
+          "interdisciplinary",
+          "llm",
+          "llm-tools",
+          "nodejs",
+          "prompt-engineering",
+          "tree-of-thought",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
