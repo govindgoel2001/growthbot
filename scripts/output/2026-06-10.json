@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-06-10T08:56:51.419077+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "ClaudioDrews/memory-os",
+        "url": "https://github.com/ClaudioDrews/memory-os",
+        "stars": 1057,
+        "description": "A 7-layer memory operating system for Hermes Agent \u2014 persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+        "topics": [
+          "ai-memory",
+          "context-injection",
+          "docker",
+          "ground-truth",
+          "hermes-agent",
+          "local-first",
+          "open-source",
+          "persistent-memory",
+          "qdrant",
+          "rag",
+          "self-hosted",
+          "vector-database"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "2aronS/Duel-Agents",
+        "url": "https://github.com/2aronS/Duel-Agents",
+        "stars": 1043,
+        "description": "CLI, SDK, and IDE plugins for Duel Agents",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude-code",
+          "cli",
+          "cursor",
+          "duel-agents",
+          "llm",
+          "npm",
+          "openai-compatible",
+          "openclaw",
+          "sdk",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "superloglabs/superlog",
+        "url": "https://github.com/superloglabs/superlog",
+        "stars": 691,
+        "description": "Open-source observability tool that uses AI agents to self-heal your software",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "observability",
+          "opentelemetry",
+          "react",
+          "self-hosted",
+          "skills",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jdevalk/specification.website",
+        "url": "https://github.com/jdevalk/specification.website",
+        "stars": 612,
+        "description": "Website specification \u2014 HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+        "topics": [
+          "accessibility",
+          "agent-readiness",
+          "astro",
+          "cloudflare-pages",
+          "llms-txt",
+          "mcp",
+          "seo",
+          "specification",
+          "web-security",
+          "web-standards",
+          "well-known"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tastyeffectco/sandboxd",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "stars": 548,
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "dev-environment",
+          "docker",
+          "isolation",
+          "pinokio",
+          "preview",
+          "preview-environment",
+          "sandbox",
+          "self-hosted"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "chaitanyagiri/munder-difflin",
+        "url": "https://github.com/chaitanyagiri/munder-difflin",
+        "stars": 491,
+        "description": "local multi-agent harness",
+        "topics": [
+          "agents",
+          "claude-code",
+          "free",
+          "harness",
+          "harness-engineering",
+          "memory"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
