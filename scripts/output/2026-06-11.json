@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-06-11T09:18:01.368473+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "ClaudioDrews/memory-os",
+        "url": "https://github.com/ClaudioDrews/memory-os",
+        "stars": 1074,
+        "description": "A 7-layer memory operating system for Hermes Agent \u2014 persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+        "topics": [
+          "ai-memory",
+          "context-injection",
+          "docker",
+          "ground-truth",
+          "hermes-agent",
+          "local-first",
+          "open-source",
+          "persistent-memory",
+          "qdrant",
+          "rag",
+          "self-hosted",
+          "vector-database"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "superloglabs/superlog",
+        "url": "https://github.com/superloglabs/superlog",
+        "stars": 747,
+        "description": "Open-source observability tool that uses AI agents to self-heal your software",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "observability",
+          "opentelemetry",
+          "react",
+          "self-hosted",
+          "skills",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jdevalk/specification.website",
+        "url": "https://github.com/jdevalk/specification.website",
+        "stars": 627,
+        "description": "Website specification \u2014 HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+        "topics": [
+          "accessibility",
+          "agent-readiness",
+          "astro",
+          "cloudflare-pages",
+          "llms-txt",
+          "mcp",
+          "seo",
+          "specification",
+          "web-security",
+          "web-standards",
+          "well-known"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tastyeffectco/sandboxd",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "stars": 565,
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "dev-environment",
+          "docker",
+          "isolation",
+          "pinokio",
+          "preview",
+          "preview-environment",
+          "sandbox",
+          "self-hosted"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "caezium/Burrow",
+        "url": "https://github.com/caezium/Burrow",
+        "stars": 547,
+        "description": "A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
+        "topics": [
+          "cleaner",
+          "disk-usage",
+          "macos",
+          "mcp",
+          "menubar",
+          "mole",
+          "open-source",
+          "swift",
+          "swiftui",
+          "system-monitor"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "chaitanyagiri/munder-difflin",
+        "url": "https://github.com/chaitanyagiri/munder-difflin",
+        "stars": 507,
+        "description": "local multi-agent harness",
+        "topics": [
+          "agents",
+          "claude-code",
+          "free",
+          "harness",
+          "harness-engineering",
+          "memory"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
