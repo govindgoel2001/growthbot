@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-06-14T08:45:02.237792+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 2061,
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "superloglabs/superlog",
+        "url": "https://github.com/superloglabs/superlog",
+        "stars": 811,
+        "description": "Open-source observability tool that uses AI agents to self-heal your software",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "observability",
+          "opentelemetry",
+          "react",
+          "self-hosted",
+          "skills",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tastyeffectco/sandboxd",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "stars": 604,
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "dev-environment",
+          "docker",
+          "isolation",
+          "pinokio",
+          "preview",
+          "preview-environment",
+          "sandbox",
+          "self-hosted"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "hoolulu/deep-research",
+        "url": "https://github.com/hoolulu/deep-research",
+        "stars": 310,
+        "description": "\u6df1\u5ea6\u8c03\u7814\u62a5\u544a\u751f\u6210 Skill \u2014 \u4e00\u4e2a\u547d\u4ee4\uff0c\u5341\u5206\u949f\uff0c\u591a\u8bed\u8a00\uff0c\u4e00\u4efd\u6df1\u5ea6\u4e13\u4e1a\u7684\u8c03\u7814\u62a5\u544a / Professional deep research report generation Skill \u00b7 Supports 19 languages",
+        "topics": [
+          "ai-agent",
+          "chinese",
+          "deep-research",
+          "intelligence-report",
+          "market-research",
+          "multi-language",
+          "opencode",
+          "report-generation",
+          "research-tool",
+          "skill"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "eli-labz/Third-Eye",
+        "url": "https://github.com/eli-labz/Third-Eye",
+        "stars": 285,
+        "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "geospatial",
+          "maven-smart-system",
+          "palantir"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Soul-AILab/SoulX-Transcriber",
+        "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+        "stars": 246,
+        "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+        "topics": [
+          "asr",
+          "llm",
+          "sd",
+          "sdr",
+          "speech-recognition"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
