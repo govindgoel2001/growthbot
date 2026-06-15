@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-06-15T11:19:46.586625+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 11000,
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "superloglabs/superlog",
+        "url": "https://github.com/superloglabs/superlog",
+        "stars": 824,
+        "description": "Open-source observability tool that uses AI agents to self-heal your software",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "observability",
+          "opentelemetry",
+          "react",
+          "self-hosted",
+          "skills",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tastyeffectco/sandboxd",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "stars": 614,
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "dev-environment",
+          "docker",
+          "isolation",
+          "pinokio",
+          "preview",
+          "preview-environment",
+          "sandbox",
+          "self-hosted"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "chubbyguan/chubbyskills",
+        "url": "https://github.com/chubbyguan/chubbyskills",
+        "stars": 346,
+        "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "chinese",
+          "claude-code",
+          "knowledge-base",
+          "mcp",
+          "obsidian",
+          "second-brain",
+          "transcription",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "hoolulu/deep-research",
+        "url": "https://github.com/hoolulu/deep-research",
+        "stars": 332,
+        "description": "\u6df1\u5ea6\u8c03\u7814\u62a5\u544a\u751f\u6210 Skill \u2014 \u4e00\u4e2a\u547d\u4ee4\uff0c\u5341\u5206\u949f\uff0c\u591a\u8bed\u8a00\uff0c\u4e00\u4efd\u6df1\u5ea6\u4e13\u4e1a\u7684\u8c03\u7814\u62a5\u544a / Professional deep research report generation Skill \u00b7 Supports 19 languages",
+        "topics": [
+          "ai-agent",
+          "chinese",
+          "deep-research",
+          "intelligence-report",
+          "market-research",
+          "multi-language",
+          "opencode",
+          "report-generation",
+          "research-tool",
+          "skill"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "eli-labz/Third-Eye",
+        "url": "https://github.com/eli-labz/Third-Eye",
+        "stars": 287,
+        "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "geospatial",
+          "maven-smart-system",
+          "palantir"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
