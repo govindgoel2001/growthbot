@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-06-19T09:48:01.045094+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 38340,
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "omnigent-ai/omnigent",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "stars": 3899,
+        "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+        "topics": [
+          "agent-framework",
+          "agent-governance",
+          "agent-orchestration",
+          "agents",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "llm",
+          "ml",
+          "multi-agent",
+          "python",
+          "sandbox"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "chubbyguan/chubbyskills",
+        "url": "https://github.com/chubbyguan/chubbyskills",
+        "stars": 419,
+        "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "chinese",
+          "claude-code",
+          "knowledge-base",
+          "mcp",
+          "obsidian",
+          "second-brain",
+          "transcription",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rebel0789/codexpro",
+        "url": "https://github.com/rebel0789/codexpro",
+        "stars": 413,
+        "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+        "topics": [
+          "apps-sdk",
+          "chatgpt",
+          "cloudflare-tunnel",
+          "codex",
+          "local-development",
+          "mcp",
+          "ngrok"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "dzcmemory-web/bazi-ziwei-skill",
+        "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+        "stars": 409,
+        "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
+        "topics": [
+          "ai-agent",
+          "bazi",
+          "bazi-suanming",
+          "chinese-astrology",
+          "claude-skill",
+          "fortune-telling",
+          "metaphysics",
+          "skill-md",
+          "ziwei",
+          "ziwei-doushu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cobusgreyling/loop-engineering",
+        "url": "https://github.com/cobusgreyling/loop-engineering",
+        "stars": 407,
+        "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "ai-coding",
+          "anthropic",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "devops-automation",
+          "devtools",
+          "github-actions",
+          "grok",
+          "llm",
+          "loop-engineering",
+          "mcp",
+          "prompt-engineering"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
