@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-06-26T08:33:58.090519+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rebel0789/codexpro",
+        "url": "https://github.com/rebel0789/codexpro",
+        "stars": 930,
+        "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+        "topics": [
+          "apps-sdk",
+          "chatgpt",
+          "cloudflare-tunnel",
+          "codex",
+          "local-development",
+          "mcp",
+          "ngrok"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "eli-labz/Third-Eye",
+        "url": "https://github.com/eli-labz/Third-Eye",
+        "stars": 885,
+        "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "geospatial",
+          "maven-smart-system",
+          "palantir"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "sums001/Windows-Copilot-API",
+        "url": "https://github.com/sums001/Windows-Copilot-API",
+        "stars": 761,
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "api",
+          "copilot",
+          "llm",
+          "microsoft-copilot",
+          "openai"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "raiyanyahya/recall",
+        "url": "https://github.com/raiyanyahya/recall",
+        "stars": 556,
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory \u2014 entirely offline.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "context",
+          "developer-tools",
+          "llm",
+          "local-first",
+          "memory",
+          "offline",
+          "privacy",
+          "productivity",
+          "python",
+          "summarization",
+          "textrank"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "dzcmemory-web/bazi-ziwei-skill",
+        "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+        "stars": 513,
+        "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
+        "topics": [
+          "ai-agent",
+          "bazi",
+          "bazi-suanming",
+          "chinese-astrology",
+          "claude-skill",
+          "fortune-telling",
+          "metaphysics",
+          "skill-md",
+          "ziwei",
+          "ziwei-doushu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "stars": 384,
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
