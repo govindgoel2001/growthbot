@@ -1,0 +1,149 @@
+{
+  "generated_at": "2026-06-30T08:34:26.165895+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "sums001/Windows-Copilot-API",
+        "url": "https://github.com/sums001/Windows-Copilot-API",
+        "stars": 969,
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "api",
+          "copilot",
+          "llm",
+          "microsoft-copilot",
+          "openai"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "winsznx/theeleven",
+        "url": "https://github.com/winsznx/theeleven",
+        "stars": 716,
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+        "topics": [
+          "ai-agents",
+          "defi",
+          "eip-3009",
+          "erc-8257",
+          "football",
+          "foundry",
+          "gasless",
+          "mcp",
+          "nextjs",
+          "okx",
+          "prediction-markets",
+          "solidity",
+          "uniswap-hooks",
+          "uniswap-v4",
+          "usdt0",
+          "web3",
+          "x-layer"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "raiyanyahya/recall",
+        "url": "https://github.com/raiyanyahya/recall",
+        "stars": 633,
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory \u2014 entirely offline.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "context",
+          "developer-tools",
+          "llm",
+          "local-first",
+          "memory",
+          "offline",
+          "privacy",
+          "productivity",
+          "python",
+          "summarization",
+          "textrank"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "shy3130/tickflow-stock-panel",
+        "url": "https://github.com/shy3130/tickflow-stock-panel",
+        "stars": 632,
+        "description": "\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "backtesting",
+          "daily",
+          "duckdb",
+          "fastapi",
+          "llm",
+          "polars",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "react",
+          "screener",
+          "self-hosted",
+          "stock",
+          "stock-analysis",
+          "tdx",
+          "tickflow"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "stars": 593,
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "abundantbeing/hermes-browser-extension",
+        "url": "https://github.com/abundantbeing/hermes-browser-extension",
+        "stars": 319,
+        "description": "Browser-native side panel for Hermes Agent \u2014 connect web context to your local Hermes runtime.",
+        "topics": [
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "edge-extension",
+          "hermes-agent",
+          "local-first",
+          "nous-research",
+          "sidepanel"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
