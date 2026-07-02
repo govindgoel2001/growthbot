@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-07-02T08:17:15.561975+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "sums001/Windows-Copilot-API",
+        "url": "https://github.com/sums001/Windows-Copilot-API",
+        "stars": 1001,
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "api",
+          "copilot",
+          "llm",
+          "microsoft-copilot",
+          "openai"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "raiyanyahya/recall",
+        "url": "https://github.com/raiyanyahya/recall",
+        "stars": 646,
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory \u2014 entirely offline.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "context",
+          "developer-tools",
+          "llm",
+          "local-first",
+          "memory",
+          "offline",
+          "privacy",
+          "productivity",
+          "python",
+          "summarization",
+          "textrank"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "stars": 634,
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "abundantbeing/hermes-browser-extension",
+        "url": "https://github.com/abundantbeing/hermes-browser-extension",
+        "stars": 436,
+        "description": "Browser-native side panel for Hermes Agent \u2014 connect web context to your local Hermes runtime.",
+        "topics": [
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "edge-extension",
+          "hermes-agent",
+          "local-first",
+          "nous-research",
+          "sidepanel"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "NotASithLord/peerd",
+        "url": "https://github.com/NotASithLord/peerd",
+        "stars": 278,
+        "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+        "topics": [
+          "agentic",
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "firefox-extension",
+          "llm",
+          "manifest-v3",
+          "p2p",
+          "webassembly",
+          "webrtc"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Johell1NS/browser-search",
+        "url": "https://github.com/Johell1NS/browser-search",
+        "stars": 277,
+        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-tools",
+          "browser-automation",
+          "camoufox",
+          "cloakbrowser",
+          "deep-research",
+          "opencode",
+          "searxng",
+          "web-scraping",
+          "web-search"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
