@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-07-03T08:16:25.904530+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "stars": 653,
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "abundantbeing/hermes-browser-extension",
+        "url": "https://github.com/abundantbeing/hermes-browser-extension",
+        "stars": 448,
+        "description": "Browser-native side panel for Hermes Agent \u2014 connect web context to your local Hermes runtime.",
+        "topics": [
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "edge-extension",
+          "hermes-agent",
+          "local-first",
+          "nous-research",
+          "sidepanel"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Johell1NS/browser-search",
+        "url": "https://github.com/Johell1NS/browser-search",
+        "stars": 287,
+        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-tools",
+          "browser-automation",
+          "camoufox",
+          "cloakbrowser",
+          "deep-research",
+          "opencode",
+          "searxng",
+          "web-scraping",
+          "web-search"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "NotASithLord/peerd",
+        "url": "https://github.com/NotASithLord/peerd",
+        "stars": 287,
+        "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+        "topics": [
+          "agentic",
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "firefox-extension",
+          "llm",
+          "manifest-v3",
+          "p2p",
+          "webassembly",
+          "webrtc"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "eli-labz/Godcoder",
+        "url": "https://github.com/eli-labz/Godcoder",
+        "stars": 272,
+        "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+        "topics": [
+          "ai",
+          "coding-agent",
+          "desktop-app",
+          "llm",
+          "local-first",
+          "mcp",
+          "open-source",
+          "openai",
+          "rust",
+          "tauri"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "uzairansaruzi/hermex",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "stars": 243,
+        "description": "Native iPhone app for your Hermes agent",
+        "topics": [
+          "hermes",
+          "hermes-agent",
+          "hermex",
+          "ios",
+          "llm",
+          "self-hosted",
+          "swift",
+          "swiftui"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
