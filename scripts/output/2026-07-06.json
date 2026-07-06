@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-07-06T09:06:43.553973+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "elder-plinius/T3MP3ST",
+        "url": "https://github.com/elder-plinius/T3MP3ST",
+        "stars": 2031,
+        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "topics": [
+          "agents",
+          "ai",
+          "multi-agent",
+          "offensive-security",
+          "redteam"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jmerelnyc/Talos",
+        "url": "https://github.com/jmerelnyc/Talos",
+        "stars": 709,
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "topics": [
+          "ai",
+          "distributed-computing",
+          "gpu",
+          "llm",
+          "ollama",
+          "python",
+          "websocket",
+          "worker"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "benchflow-ai/awesome-evals",
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "stars": 678,
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "uzairansaruzi/hermex",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "stars": 634,
+        "description": "Native iPhone app for your Hermes agent",
+        "topics": [
+          "hermes",
+          "hermes-agent",
+          "hermex",
+          "ios",
+          "llm",
+          "self-hosted",
+          "swift",
+          "swiftui"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "abundantbeing/hermes-browser-extension",
+        "url": "https://github.com/abundantbeing/hermes-browser-extension",
+        "stars": 568,
+        "description": "Browser-native side panel for Hermes Agent \u2014 connect web context to your local Hermes runtime.",
+        "topics": [
+          "ai-agent",
+          "browser-extension",
+          "chrome-extension",
+          "edge-extension",
+          "hermes-agent",
+          "local-first",
+          "nous-research",
+          "sidepanel"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "oomol-lab/open-connector",
+        "url": "https://github.com/oomol-lab/open-connector",
+        "stars": 379,
+        "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "api-gateway",
+          "automation",
+          "cli",
+          "cloudflare-workers",
+          "connectors",
+          "integration-platform",
+          "mcp",
+          "model-context-protocol",
+          "oauth",
+          "oomol",
+          "openapi",
+          "openconnector",
+          "saas-integrations",
+          "sdk",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
