@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-07-09T08:34:06.874534+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "elder-plinius/T3MP3ST",
+        "url": "https://github.com/elder-plinius/T3MP3ST",
+        "stars": 3975,
+        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "topics": [
+          "agents",
+          "ai",
+          "multi-agent",
+          "offensive-security",
+          "redteam"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "synthetic-sciences/openscience",
+        "url": "https://github.com/synthetic-sciences/openscience",
+        "stars": 1835,
+        "description": "The open-source AI workbench for scientific research",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "bun",
+          "cli",
+          "co-scientist",
+          "llm",
+          "ml",
+          "ml-engineering",
+          "open-source",
+          "research",
+          "research-tools",
+          "science",
+          "scientific-computing",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "isjiamu/gzh-design-skill",
+        "url": "https://github.com/isjiamu/gzh-design-skill",
+        "stars": 1633,
+        "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gongzhonghao",
+          "html",
+          "markdown",
+          "rich-text",
+          "skill",
+          "typesetting",
+          "wechat",
+          "weixin"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "oomol-lab/open-connector",
+        "url": "https://github.com/oomol-lab/open-connector",
+        "stars": 1046,
+        "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "api-gateway",
+          "automation",
+          "cli",
+          "cloudflare-workers",
+          "connectors",
+          "integration-platform",
+          "mcp",
+          "model-context-protocol",
+          "oauth",
+          "oomol",
+          "openapi",
+          "openconnector",
+          "saas-integrations",
+          "sdk",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jmerelnyc/Talos",
+        "url": "https://github.com/jmerelnyc/Talos",
+        "stars": 800,
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "topics": [
+          "ai",
+          "distributed-computing",
+          "gpu",
+          "llm",
+          "ollama",
+          "python",
+          "websocket",
+          "worker"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "uzairansaruzi/hermex",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "stars": 704,
+        "description": "Native iPhone app for your Hermes agent",
+        "topics": [
+          "hermes",
+          "hermes-agent",
+          "hermex",
+          "ios",
+          "llm",
+          "self-hosted",
+          "swift",
+          "swiftui"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
