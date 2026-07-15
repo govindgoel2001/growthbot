@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-07-15T07:19:42.526719+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "synthetic-sciences/openscience",
+        "url": "https://github.com/synthetic-sciences/openscience",
+        "stars": 2436,
+        "description": "The open-source AI workbench for scientific research",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "bun",
+          "cli",
+          "co-scientist",
+          "llm",
+          "ml",
+          "ml-engineering",
+          "open-source",
+          "research",
+          "research-tools",
+          "science",
+          "scientific-computing",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jmerelnyc/Talos",
+        "url": "https://github.com/jmerelnyc/Talos",
+        "stars": 996,
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "topics": [
+          "ai",
+          "distributed-computing",
+          "gpu",
+          "llm",
+          "ollama",
+          "python",
+          "websocket",
+          "worker"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "simonlin1212/Vibe-Research",
+        "url": "https://github.com/simonlin1212/Vibe-Research",
+        "stars": 840,
+        "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "dashboard",
+          "fastapi",
+          "fintech",
+          "hk-stocks",
+          "investment-research",
+          "llm",
+          "mcp",
+          "python",
+          "react",
+          "stock-market",
+          "trading",
+          "us-stocks"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Sahir619/fable-method",
+        "url": "https://github.com/Sahir619/fable-method",
+        "stars": 784,
+        "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-md",
+          "coding-agent",
+          "evaluation",
+          "fable",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "uzairansaruzi/hermex",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "stars": 768,
+        "description": "Native iPhone app for your Hermes agent",
+        "topics": [
+          "hermes",
+          "hermes-agent",
+          "hermex",
+          "ios",
+          "llm",
+          "self-hosted",
+          "swift",
+          "swiftui"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "ai4s-research/open-science",
+        "url": "https://github.com/ai4s-research/open-science",
+        "stars": 747,
+        "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+        "topics": [
+          "ai-agent",
+          "ai-for-science",
+          "ai-scientist",
+          "ai4s",
+          "claude-science",
+          "claude-science-alternative",
+          "claude-science-desktop-alternative",
+          "desktop-app",
+          "linux",
+          "local-first",
+          "macos",
+          "mcp",
+          "open-science",
+          "open-science-desktop",
+          "reproducible-research",
+          "research-tools",
+          "research-workbench",
+          "scientific-research",
+          "tauri",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
