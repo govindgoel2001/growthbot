@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-07-21T07:37:38.022824+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "AlephAITech/WorkBuddyGuide",
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+        "stars": 1159,
+        "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
+        "topics": [
+          "codex",
+          "guide",
+          "llm",
+          "workbuddy"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Intuition-Lab/personal-model",
+        "url": "https://github.com/Intuition-Lab/personal-model",
+        "stars": 963,
+        "description": "Build your HUMAN.md.",
+        "topics": [
+          "agent-memory",
+          "local-first",
+          "macos",
+          "mcp",
+          "personal-ai",
+          "personal-model",
+          "privacy",
+          "python"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "William-Lu-stack/Flawless",
+        "url": "https://github.com/William-Lu-stack/Flawless",
+        "stars": 823,
+        "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+        "topics": [
+          "agenticops",
+          "ai",
+          "aiops",
+          "aisre",
+          "cloud",
+          "cloud-native",
+          "devops",
+          "kubernetes",
+          "llm",
+          "mcp",
+          "observability",
+          "sre"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "vshulcz/deja-vu",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "stars": 427,
+        "description": "Your agents already solved this. deja finds it \u2014 retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "claude",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "golang",
+          "mcp",
+          "mcp-server",
+          "opencode",
+          "session-search"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "QuantumByteOSS/quantumbyte",
+        "url": "https://github.com/QuantumByteOSS/quantumbyte",
+        "stars": 334,
+        "description": "Open-source app builder engine \u2014 intent to working app",
+        "topics": [
+          "agents",
+          "ai",
+          "app-builder",
+          "code-generation",
+          "llm",
+          "nextjs",
+          "open-source",
+          "python"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "PromptPartner/agentsmith",
+        "url": "https://github.com/PromptPartner/agentsmith",
+        "stars": 315,
+        "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
+        "topics": [
+          "agentic-ai",
+          "agentic-coding",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "coding-agent",
+          "developer-tools",
+          "gemini",
+          "llm",
+          "llm-agents",
+          "open-source",
+          "prompt-engineering",
+          "vibe-coding"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
