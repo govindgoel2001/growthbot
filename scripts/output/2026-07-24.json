@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-07-24T07:37:03.715752+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "powerycy/goutoujunshi",
+        "url": "https://github.com/powerycy/goutoujunshi",
+        "stars": 728,
+        "description": "\u4e00\u4e2a\u5148\u63a5\u4f4f\u60c5\u7eea\u3001\u518d\u5206\u6790\u5173\u7cfb\u5e76\u7ed9\u51fa\u53ef\u6267\u884c\u7b56\u7565\u7684 Codex \u604b\u7231\u519b\u5e08\uff0c\u5185\u7f6e\u5fc3\u7406\u3001\u6cd5\u5f8b\u3001\u793e\u4f1a\u3001\u4eba\u6587\u3001\u54f2\u5b66\u3001\u5a5a\u59fb\u5bb6\u5ead\u4e0e\u6027\u5b66\u77e5\u8bc6\u5e93\uff0c\u652f\u6301\u591a\u5143\u5173\u7cfb\u3002",
+        "topics": [
+          "ai-agent",
+          "chinese",
+          "codex",
+          "codex-skill",
+          "lgbtq",
+          "psychology",
+          "relationship-advice"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "icebird1998/drawio-scientific-illustrator",
+        "url": "https://github.com/icebird1998/drawio-scientific-illustrator",
+        "stars": 544,
+        "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
+        "topics": [
+          "codex",
+          "diagrams",
+          "drawio",
+          "mcp",
+          "scientific-figures",
+          "scientific-illustration"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "vshulcz/deja-vu",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "stars": 467,
+        "description": "Your agents already solved this. deja finds it \u2014 memory operations for fifteen coding agents: retroactive search and MCP recall (84.9% R@1 on LongMemEval-S, no LLM), trust scopes, curated notes with tags and lifecycle states, measured impact. One zero-dep binary, fully local.",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "claude",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "golang",
+          "mcp",
+          "mcp-server",
+          "opencode",
+          "session-search"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xsline/OpenChatCut",
+        "url": "https://github.com/0xsline/OpenChatCut",
+        "stars": 455,
+        "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+        "topics": [
+          "agent-skills",
+          "agentic-ai",
+          "ai-agent",
+          "ai-video-editor",
+          "claude-code",
+          "codex",
+          "electron",
+          "ffmpeg",
+          "generative-ai",
+          "glsl",
+          "local-first",
+          "mcp",
+          "model-context-protocol",
+          "react",
+          "remotion",
+          "timeline-editor",
+          "typescript",
+          "video-editing",
+          "video-editor",
+          "webgl"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Kritt-ai/open-kritt",
+        "url": "https://github.com/Kritt-ai/open-kritt",
+        "stars": 363,
+        "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tools",
+          "security",
+          "security-research"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "thesysdev/appless",
+        "url": "https://github.com/thesysdev/appless",
+        "stars": 328,
+        "description": "What if your phone had no apps",
+        "topics": [
+          "generative-ui",
+          "llm",
+          "react-native"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
