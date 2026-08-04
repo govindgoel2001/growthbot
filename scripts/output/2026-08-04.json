@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-08-04T07:44:16.468122+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "makecindy/cindy",
+        "url": "https://github.com/makecindy/cindy",
+        "stars": 1667,
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 1425,
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/openclaude-improved",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "stars": 569,
+        "description": "runs anywhere. uses anything",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "cli",
+          "coding-agent",
+          "gemini",
+          "gemini-ai",
+          "gemini-cli",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "openrouter"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "mikehasa/agentacct",
+        "url": "https://github.com/mikehasa/agentacct",
+        "stars": 546,
+        "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+        "topics": [
+          "agent-observability",
+          "ai-agents",
+          "analytics",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agent",
+          "cost-tracking",
+          "dashboard",
+          "developer-tools",
+          "devtools",
+          "llm",
+          "llmops",
+          "local-first",
+          "mcp",
+          "observability",
+          "opencode",
+          "python",
+          "token-usage"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/ratchet",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "stars": 426,
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm",
+          "ratchet",
+          "rate-limiting",
+          "static-analysis",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tsingyuai/growth-lab",
+        "url": "https://github.com/tsingyuai/growth-lab",
+        "stars": 399,
+        "description": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. \u4ece\u4ee3\u7801\u5230\u5e02\u573a\u7684\u5f00\u6e90\u7aef\u5230\u7aef\u589e\u957f\u5de5\u5177\u3002\u7406\u89e3\u4ea7\u54c1\u3001\u63a5\u5165\u4fe1\u606f\u6e20\u9053\u3001\u7814\u7a76\u5e02\u573a\u3001\u6267\u884c\u589e\u957f\u884c\u52a8\uff0c\u5e76\u57fa\u4e8e\u771f\u5b9e\u6570\u636e\u81ea\u6211\u6539\u8fdb\u3002",
+        "topics": [
+          "agentic-marketing",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "growth",
+          "growth-hacking",
+          "marketing-automation",
+          "open-source",
+          "seo",
+          "skills",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
