@@ -1,0 +1,153 @@
+{
+  "generated_at": "2026-08-07T06:11:54.657271+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 2929,
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "miuuyy/codex-chatgpt-web",
+        "url": "https://github.com/miuuyy/codex-chatgpt-web",
+        "stars": 639,
+        "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app \u2014 with context, tools, streaming and images beyond Codex usage limits.",
+        "topics": [
+          "chatgpt",
+          "chatgpt-pro",
+          "codex",
+          "free-ai",
+          "macos",
+          "mcp",
+          "openai",
+          "playwright",
+          "responses-api",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/openclaude-improved",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "stars": 569,
+        "description": "runs anywhere. uses anything",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "cli",
+          "coding-agent",
+          "gemini",
+          "gemini-ai",
+          "gemini-cli",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "openrouter"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/ratchet",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "stars": 436,
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm",
+          "ratchet",
+          "rate-limiting",
+          "static-analysis",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deerwork-ai/deer-workflow",
+        "url": "https://github.com/deerwork-ai/deer-workflow",
+        "stars": 399,
+        "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows",
+          "graph-engineering",
+          "llm",
+          "workflow"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "aigclink/geolook",
+        "url": "https://github.com/aigclink/geolook",
+        "stars": 388,
+        "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+        "topics": [
+          "aeo",
+          "ai-search",
+          "ai-visibility",
+          "answer-engine-optimization",
+          "generative-engine-optimization",
+          "geo",
+          "llm",
+          "self-hosted",
+          "seo",
+          "seo-tools"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
