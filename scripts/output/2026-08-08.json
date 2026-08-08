@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-08-08T05:48:25.784687+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 3383,
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "miuuyy/codex-chatgpt-web",
+        "url": "https://github.com/miuuyy/codex-chatgpt-web",
+        "stars": 744,
+        "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app \u2014 with context, tools, streaming and images beyond Codex usage limits.",
+        "topics": [
+          "chatgpt",
+          "chatgpt-pro",
+          "codex",
+          "free-ai",
+          "macos",
+          "mcp",
+          "openai",
+          "playwright",
+          "responses-api",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/openclaude-improved",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "stars": 569,
+        "description": "runs anywhere. uses anything",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "cli",
+          "coding-agent",
+          "gemini",
+          "gemini-ai",
+          "gemini-cli",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "openrouter"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Pan-Chera/Multi-Agent-CAD",
+        "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+        "stars": 442,
+        "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+        "topics": [
+          "3d-modeling",
+          "3d-printing",
+          "agent-pipeline",
+          "aider",
+          "build123d",
+          "cad",
+          "generative-design",
+          "langgraph",
+          "llm",
+          "llm-agent",
+          "mechanical-engineering",
+          "multi-agent",
+          "opencascade",
+          "qwen",
+          "step",
+          "step-file",
+          "text-to-3d",
+          "text-to-cad"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/ratchet",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "stars": 438,
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm",
+          "ratchet",
+          "rate-limiting",
+          "static-analysis",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deerwork-ai/deer-workflow",
+        "url": "https://github.com/deerwork-ai/deer-workflow",
+        "stars": 405,
+        "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows",
+          "graph-engineering",
+          "llm",
+          "workflow"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
