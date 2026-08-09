@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-08-09T05:51:52.623719+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 3872,
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Pan-Chera/Multi-Agent-CAD",
+        "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+        "stars": 512,
+        "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+        "topics": [
+          "3d-modeling",
+          "3d-printing",
+          "agent-pipeline",
+          "aider",
+          "build123d",
+          "cad",
+          "generative-design",
+          "langgraph",
+          "llm",
+          "llm-agent",
+          "mechanical-engineering",
+          "multi-agent",
+          "opencascade",
+          "qwen",
+          "step",
+          "step-file",
+          "text-to-3d",
+          "text-to-cad"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xwilliamortiz/ratchet",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "stars": 438,
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm",
+          "ratchet",
+          "rate-limiting",
+          "static-analysis",
+          "yagni"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "aigclink/geolook",
+        "url": "https://github.com/aigclink/geolook",
+        "stars": 413,
+        "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+        "topics": [
+          "aeo",
+          "ai-search",
+          "ai-visibility",
+          "answer-engine-optimization",
+          "generative-engine-optimization",
+          "geo",
+          "llm",
+          "self-hosted",
+          "seo",
+          "seo-tools"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Anionex/agent-vision-toolkit",
+        "url": "https://github.com/Anionex/agent-vision-toolkit",
+        "stars": 364,
+        "description": "\u4e3a\u7eaf\u6587\u672c\u6a21\u578b\"\u770b\u56fe\u201c\u8bbe\u8ba1\u66f4\u597d\u7684\u89c6\u89c9\u5de5\u5177\u7bb1\u548c\u6280\u80fd\uff0c\u652f\u6301\u591a\u56fe\u7406\u89e3\uff0c\u56fe\u7247\u95ee\u7b54\uff0c\u524d\u7aefUI\u8fd8\u539f\u3001GUI \u81ea\u52a8\u5316\u7b49\uff0c\u5e76\u53ef\u9009\u65e0\u7f1d\u63a5\u5165\u591a\u4e2a\u4e3b\u6d41agent\uff0c\u76f4\u63a5\u8bc6\u522b\u7c98\u8d34\u56fe\u7247\uff5c A vision toolkit and skill designed for text-only llms \u2014 image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "codex",
+          "computer-use",
+          "deepseek",
+          "glm",
+          "harness-engineering",
+          "kimi",
+          "llm",
+          "multimodal",
+          "opencode",
+          "text-only-llm",
+          "vision",
+          "vision-language-model"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "patchy631/time-to-first-token",
+        "url": "https://github.com/patchy631/time-to-first-token",
+        "stars": 349,
+        "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+        "topics": [
+          "learning-resources",
+          "llm",
+          "llm-inference",
+          "mlops",
+          "roadmap",
+          "sglang",
+          "vllm"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
