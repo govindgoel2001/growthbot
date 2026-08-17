@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-08-17T05:40:24.811932+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "Leutenegger/book-to-skill",
+        "url": "https://github.com/Leutenegger/book-to-skill",
+        "stars": 1159,
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agents",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "github-copilot",
+          "pdf",
+          "pdf-document",
+          "pdf-generation",
+          "pdf-parser",
+          "pdf-tools",
+          "pdf-viewer",
+          "skill-generator"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "SaladDay/pi-from-scratch",
+        "url": "https://github.com/SaladDay/pi-from-scratch",
+        "stars": 1032,
+        "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "coding-agent",
+          "llm",
+          "llm-agent",
+          "pi",
+          "pi-agent",
+          "tool-calling",
+          "typescript",
+          "typescript-tutorial"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "fuxicodex/Fuxi",
+        "url": "https://github.com/fuxicodex/Fuxi",
+        "stars": 773,
+        "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "cli",
+          "code-assistant",
+          "coding-assistant",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "terminal",
+          "tui"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "0xsline/awesome-deepseek-harness",
+        "url": "https://github.com/0xsline/awesome-deepseek-harness",
+        "stars": 643,
+        "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "dsh-plugins",
+          "harness",
+          "llm",
+          "mcp",
+          "plugins"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "sv-number/mcp-server",
+        "url": "https://github.com/sv-number/mcp-server",
+        "stars": 601,
+        "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "cline",
+          "cursor",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "otp",
+          "phone-verification",
+          "sms",
+          "sms-verification",
+          "typescript",
+          "virtual-phone-number",
+          "windsurf"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+        "stars": 593,
+        "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation \u63fd\u5c3d\u4e07\u8c61",
+        "topics": [
+          "ai-agent",
+          "deepseek",
+          "desktop-app",
+          "dsh",
+          "electron",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
