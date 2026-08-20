@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-08-20T05:37:30.000780+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "Leutenegger/book-to-skill",
+        "url": "https://github.com/Leutenegger/book-to-skill",
+        "stars": 1205,
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agents",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "github-copilot",
+          "pdf",
+          "pdf-document",
+          "pdf-generation",
+          "pdf-parser",
+          "pdf-tools",
+          "pdf-viewer",
+          "skill-generator"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cinderline/northcinder",
+        "url": "https://github.com/cinderline/northcinder",
+        "stars": 1195,
+        "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+        "topics": [
+          "agentic-commerce",
+          "human-in-the-loop",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "privacy",
+          "self-hosted",
+          "shopping-agent",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "SaladDay/pi-from-scratch",
+        "url": "https://github.com/SaladDay/pi-from-scratch",
+        "stars": 1079,
+        "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "coding-agent",
+          "llm",
+          "llm-agent",
+          "pi",
+          "pi-agent",
+          "tool-calling",
+          "typescript",
+          "typescript-tutorial"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "stars": 1024,
+        "description": "DeepSeek V4 \u00d7 J-Space capability realization report \u2014 benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "benchmark",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+        "stars": 974,
+        "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation \u63fd\u5c3d\u4e07\u8c61",
+        "topics": [
+          "ai-agent",
+          "deepseek",
+          "desktop-app",
+          "dsh",
+          "electron",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "elie222/rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "stars": 906,
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "llm",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
