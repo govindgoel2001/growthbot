@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-08-24T05:44:44.646309+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "stars": 2537,
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "topics": [
+          "ag-ui",
+          "agent-governance",
+          "ai-agents",
+          "browser-automation",
+          "copilotkit",
+          "generative-ui",
+          "mcp"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+        "stars": 1212,
+        "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (\u63fd\u5c3d\u4e07\u8c61). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
+        "topics": [
+          "ai-agent",
+          "deepseek",
+          "deepseek-harness",
+          "desktop",
+          "desktop-app",
+          "dsh",
+          "dsh-plugins",
+          "dshdesktop",
+          "electron",
+          "tauri",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cinderline/northcinder",
+        "url": "https://github.com/cinderline/northcinder",
+        "stars": 1207,
+        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "topics": [
+          "agentic-commerce",
+          "human-in-the-loop",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "privacy",
+          "self-hosted",
+          "shopping-agent",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "elie222/rakazo",
+        "url": "https://github.com/elie222/rakazo",
+        "stars": 1183,
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "llm",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "stars": 1035,
+        "description": "DeepSeek V4 \u00d7 J-Space capability realization report \u2014 benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4.",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "benchmark",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 987,
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Z",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner",
+          "mcp",
+          "mcp-server",
+          "mcp-servers",
+          "x64dbg",
+          "x64dbg-mcp",
+          "x64dbg-plugin",
+          "x64dbg-tools",
+          "xdbg",
+          "zig",
+          "zig-lang",
+          "ziglang"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
