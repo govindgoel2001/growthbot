@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-08-30T10:25:51.368368+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "stars": 3476,
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "topics": [
+          "ag-ui",
+          "agent-governance",
+          "ai-agents",
+          "browser-automation",
+          "copilotkit",
+          "generative-ui",
+          "mcp"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 1759,
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Z",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner",
+          "mcp",
+          "mcp-server",
+          "mcp-servers",
+          "x64dbg",
+          "x64dbg-mcp",
+          "x64dbg-plugin",
+          "x64dbg-tools",
+          "xdbg",
+          "zig",
+          "zig-lang",
+          "ziglang"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cinderline/northcinder",
+        "url": "https://github.com/cinderline/northcinder",
+        "stars": 1218,
+        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "topics": [
+          "agentic-commerce",
+          "human-in-the-loop",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "privacy",
+          "self-hosted",
+          "shopping-agent",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 1161,
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "codex",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Nanako0129/sepia",
+        "url": "https://github.com/Nanako0129/sepia",
+        "stars": 801,
+        "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok",
+          "humanizer",
+          "llm",
+          "prompt-engineering",
+          "writing-tools"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Zyrexnn/Cybermes",
+        "url": "https://github.com/Zyrexnn/Cybermes",
+        "stars": 664,
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "topics": [
+          "ai-agent",
+          "appsec",
+          "bug-bounty",
+          "cvss-v3",
+          "cybersecurity",
+          "devsecops",
+          "exploit-validation",
+          "hermes-agent",
+          "infosec",
+          "llm-security",
+          "nuclei",
+          "offensive-security",
+          "penetration-testing",
+          "playwright",
+          "reconnaissance",
+          "red-teaming",
+          "security-tools",
+          "sqlmap",
+          "threat-research",
+          "vulnerability-scanner"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
