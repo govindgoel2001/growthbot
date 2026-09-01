@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-09-01T09:54:58.657893+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "yanliudesign/mono-color-skill",
+        "url": "https://github.com/yanliudesign/mono-color-skill",
+        "stars": 2471,
+        "description": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography.",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-skill",
+          "editorial-design",
+          "generative-art",
+          "halftone",
+          "image-generation",
+          "monochrome",
+          "poster-design",
+          "prompt-engineering",
+          "risograph",
+          "zine"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 2036,
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "codex",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 1816,
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Z",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner",
+          "mcp",
+          "mcp-server",
+          "mcp-servers",
+          "x64dbg",
+          "x64dbg-mcp",
+          "x64dbg-plugin",
+          "x64dbg-tools",
+          "xdbg",
+          "zig",
+          "zig-lang",
+          "ziglang"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Nanako0129/sepia",
+        "url": "https://github.com/Nanako0129/sepia",
+        "stars": 1304,
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok",
+          "humanizer",
+          "llm",
+          "prompt-engineering",
+          "writing-tools"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cbrock84/headcount",
+        "url": "https://github.com/cbrock84/headcount",
+        "stars": 892,
+        "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
+        "topics": [
+          "agent-marketplace",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "claude-skills",
+          "mcp"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Zyrexnn/Cybermes",
+        "url": "https://github.com/Zyrexnn/Cybermes",
+        "stars": 684,
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "topics": [
+          "ai-agent",
+          "appsec",
+          "bug-bounty",
+          "cvss-v3",
+          "cybersecurity",
+          "devsecops",
+          "exploit-validation",
+          "hermes-agent",
+          "infosec",
+          "llm-security",
+          "nuclei",
+          "offensive-security",
+          "penetration-testing",
+          "playwright",
+          "reconnaissance",
+          "red-teaming",
+          "security-tools",
+          "sqlmap",
+          "threat-research",
+          "vulnerability-scanner"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
