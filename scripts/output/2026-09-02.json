@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-09-02T09:26:11.665613+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 2210,
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "codex",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 1837,
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Z",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner",
+          "mcp",
+          "mcp-server",
+          "mcp-servers",
+          "x64dbg",
+          "x64dbg-mcp",
+          "x64dbg-plugin",
+          "x64dbg-tools",
+          "xdbg",
+          "zig",
+          "zig-lang",
+          "ziglang"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Nanako0129/sepia",
+        "url": "https://github.com/Nanako0129/sepia",
+        "stars": 1405,
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok",
+          "humanizer",
+          "llm",
+          "prompt-engineering",
+          "writing-tools"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cbrock84/headcount",
+        "url": "https://github.com/cbrock84/headcount",
+        "stars": 996,
+        "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
+        "topics": [
+          "agent-marketplace",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "claude-skills",
+          "mcp"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "totec448-spec/chat-on-steroids",
+        "url": "https://github.com/totec448-spec/chat-on-steroids",
+        "stars": 617,
+        "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+        "topics": [
+          "automation",
+          "chatgpt",
+          "chrome-extension",
+          "electron",
+          "linux",
+          "local-first",
+          "macos",
+          "mcp",
+          "multi-agent",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "HanyuanWang/LiveStream-Agent-Studio",
+        "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+        "stars": 576,
+        "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
+        "topics": [
+          "ai-agent",
+          "douyin",
+          "livestream",
+          "speech-to-text"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
