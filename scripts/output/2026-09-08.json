@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-09-08T09:30:56.089111+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 2872,
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "codex",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Nanako0129/sepia",
+        "url": "https://github.com/Nanako0129/sepia",
+        "stars": 2437,
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok",
+          "humanizer",
+          "llm",
+          "prompt-engineering",
+          "writing-tools"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Player-YN/PawWork_ZhuaZhua",
+        "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+        "stars": 1843,
+        "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "byok",
+          "chrome-extension",
+          "llm",
+          "pptx",
+          "tldraw",
+          "univer"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cbrock84/headcount",
+        "url": "https://github.com/cbrock84/headcount",
+        "stars": 1317,
+        "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
+        "topics": [
+          "agent-marketplace",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-plugin",
+          "claude-skills",
+          "mcp"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "2akouwu/reverify",
+        "url": "https://github.com/2akouwu/reverify",
+        "stars": 1024,
+        "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anti-hallucination",
+          "binary-analysis",
+          "context-engineering",
+          "ctf",
+          "developer-tools",
+          "disassembler",
+          "grounding",
+          "hallucination",
+          "hallucination-detection",
+          "llm",
+          "malware-analysis",
+          "mcp",
+          "mcp-server",
+          "python",
+          "reverse-engineering",
+          "security-tools",
+          "verification"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Human-Agent-Society/reef",
+        "url": "https://github.com/Human-Agent-Society/reef",
+        "stars": 732,
+        "description": "Continual learning infra for self-improving agents",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agents",
+          "continual-learning",
+          "inference",
+          "llm",
+          "llm-training",
+          "reinforcement-learning",
+          "self-improving-agents"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
