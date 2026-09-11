@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-09-11T09:30:11.382898+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "2akouwu/reverify",
+        "url": "https://github.com/2akouwu/reverify",
+        "stars": 1120,
+        "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anti-hallucination",
+          "binary-analysis",
+          "context-engineering",
+          "ctf",
+          "developer-tools",
+          "disassembler",
+          "grounding",
+          "hallucination",
+          "hallucination-detection",
+          "llm",
+          "malware-analysis",
+          "mcp",
+          "mcp-server",
+          "python",
+          "reverse-engineering",
+          "security-tools",
+          "verification"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "tigerless-labs/agent-memory",
+        "url": "https://github.com/tigerless-labs/agent-memory",
+        "stars": 960,
+        "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "markdown",
+          "mcp",
+          "python",
+          "retrieval",
+          "sqlite"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Human-Agent-Society/reef",
+        "url": "https://github.com/Human-Agent-Society/reef",
+        "stars": 949,
+        "description": "Continual learning infra for self-improving agents",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agents",
+          "continual-learning",
+          "inference",
+          "llm",
+          "llm-training",
+          "reinforcement-learning",
+          "self-improving-agents"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+        "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+        "stars": 762,
+        "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+        "topics": [
+          "ai-seo",
+          "backlinks",
+          "claude",
+          "claude-skills",
+          "dataforseo",
+          "generative-engine-optimization",
+          "geo",
+          "keyword-research",
+          "mcp",
+          "mcp-server",
+          "open-source-seo",
+          "rank-tracking",
+          "seo",
+          "seo-audit"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "adtexterry-lgtm/unigit-ecosystem",
+        "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+        "stars": 753,
+        "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
+        "topics": [
+          "agentic-ai",
+          "ai-tools",
+          "ai-workbench",
+          "ecosystem",
+          "mcp",
+          "productivity",
+          "unigit"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "okf-memory/okf-agent-memory",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "stars": 557,
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "bm25",
+          "coding-agents",
+          "developer-tools",
+          "git-native",
+          "go",
+          "golang",
+          "knowledge-base",
+          "knowledge-graph",
+          "llm-memory",
+          "markdown",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "okf",
+          "open-knowledge-format",
+          "persistent-memory"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
