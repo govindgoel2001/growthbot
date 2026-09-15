@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-09-15T09:57:31.770675+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "shadcn-ui/lint",
+        "url": "https://github.com/shadcn-ui/lint",
+        "stars": 1332,
+        "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+        "topics": [
+          "agents",
+          "ai",
+          "design",
+          "design-system",
+          "design-tools",
+          "shadcn",
+          "shadcn-ui",
+          "tailwindcss"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "adtexterry-lgtm/unigit-ecosystem",
+        "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+        "stars": 1135,
+        "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
+        "topics": [
+          "agentic-ai",
+          "ai-tools",
+          "ai-workbench",
+          "ecosystem",
+          "mcp",
+          "productivity",
+          "unigit"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "okf-memory/okf-agent-memory",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "stars": 652,
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "bm25",
+          "coding-agents",
+          "developer-tools",
+          "git-native",
+          "go",
+          "golang",
+          "knowledge-base",
+          "knowledge-graph",
+          "llm-memory",
+          "markdown",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "okf",
+          "open-knowledge-format",
+          "persistent-memory"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "op7418/guizang-yingzao-skill",
+        "url": "https://github.com/op7418/guizang-yingzao-skill",
+        "stars": 426,
+        "description": "\ud83c\udfef Claude Code / Codex skill \u2014 transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. \u4e2d\u56fd\u53e4\u5efa\u7b51\u4e0e\u5728\u5730\u6587\u5316\u7167\u7247 \u2192 \u827a\u672f\u6307\u5bfc\u6d77\u62a5",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "anthropic",
+          "chinese-architecture",
+          "chinese-culture",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "cultural-heritage",
+          "editorial-design",
+          "gpt-image",
+          "image-generation",
+          "openai",
+          "photography",
+          "poster-design",
+          "skill",
+          "skills",
+          "travel-photography",
+          "visual-design",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "TokenRhythm/NeoHorse",
+        "url": "https://github.com/TokenRhythm/NeoHorse",
+        "stars": 384,
+        "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "post-training",
+          "recursive-self-improvement",
+          "rsi"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "youngyangyang04/llm-master",
+        "url": "https://github.com/youngyangyang04/llm-master",
+        "stars": 374,
+        "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
