@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-09-16T09:48:53.535129+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "okf-memory/okf-agent-memory",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "stars": 677,
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "bm25",
+          "coding-agents",
+          "developer-tools",
+          "git-native",
+          "go",
+          "golang",
+          "knowledge-base",
+          "knowledge-graph",
+          "llm-memory",
+          "markdown",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "okf",
+          "open-knowledge-format",
+          "persistent-memory"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "youngyangyang04/llm-master",
+        "url": "https://github.com/youngyangyang04/llm-master",
+        "stars": 538,
+        "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "TokenRhythm/NeoHorse",
+        "url": "https://github.com/TokenRhythm/NeoHorse",
+        "stars": 446,
+        "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "post-training",
+          "recursive-self-improvement",
+          "rsi"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "atria-asi/Atria-Dawn-Preview",
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+        "stars": 382,
+        "description": "",
+        "topics": [
+          "llm",
+          "llm-agent"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "xiaomoBoy/pi-bluebook",
+        "url": "https://github.com/xiaomoBoy/pi-bluebook",
+        "stars": 236,
+        "description": "Pi Coding Agent \u4e2d\u6587\u5b66\u4e60\u84dd\u76ae\u4e66\uff1a\u4ece\u5b89\u88c5\u4e0e\u7b2c\u4e00\u4e2a\u53ef\u9a8c\u6536\u4efb\u52a1\u5f00\u59cb\uff0c\u9010\u6b65\u638c\u63e1 Session\u3001Context\u3001Skill\u3001Extension\u3001Subagent \u4e0e\u957f\u671f Agent \u5de5\u4f5c\u6d41\u3002",
+        "topics": [
+          "agent-harness",
+          "agent-skills",
+          "ai-agent",
+          "chinese",
+          "coding-agent",
+          "context-engineering",
+          "learning-path",
+          "pi",
+          "pi-agent",
+          "pi-coding-agent",
+          "tutorial",
+          "vitepress"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "dmoshehun-prog/learn-from-materials",
+        "url": "https://github.com/dmoshehun-prog/learn-from-materials",
+        "stars": 233,
+        "description": "Turn PDFs, books and papers into interactive learning webpages\uff5c\u5c06\u590d\u6742\u6750\u6599\u8f6c\u5316\u4e3a\u53ef\u8ffd\u6eaf\u3001\u53ef\u6d4b\u9a8c\u3001\u53ef\u505a\u7b14\u8bb0\u7684\u5b66\u4e60\u7f51\u9875",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "education",
+          "knowledge-base",
+          "learning",
+          "markdown",
+          "workbuddy"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
