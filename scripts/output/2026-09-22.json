@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-09-22T09:48:53.644283+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "jev-chat/jev-chat-jarvis",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "stars": 2595,
+        "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+        "topics": [
+          "accessibility-service",
+          "android",
+          "chat-assistant",
+          "llm",
+          "qq",
+          "wechat"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "yibie/awesome-jev",
+        "url": "https://github.com/yibie/awesome-jev",
+        "stars": 1148,
+        "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "jev",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "youngyangyang04/llm-master",
+        "url": "https://github.com/youngyangyang04/llm-master",
+        "stars": 895,
+        "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "shinthink/blitzstrike",
+        "url": "https://github.com/shinthink/blitzstrike",
+        "stars": 650,
+        "description": "\u26a1 Blitz Strike \u2014 a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+        "topics": [
+          "active-directory",
+          "blue-team",
+          "bug-bounty",
+          "cve",
+          "defensive-security",
+          "exploit",
+          "mcp",
+          "mcp-server",
+          "nuclei",
+          "offensive-security",
+          "payloads",
+          "pentest",
+          "reconnaissance",
+          "red-team",
+          "reverse-engineering",
+          "security",
+          "security-tools",
+          "vulnerability-scanning",
+          "wordpress"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "v-modal/awesome-jev-tools",
+        "url": "https://github.com/v-modal/awesome-jev-tools",
+        "stars": 635,
+        "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "awesome-lists",
+          "jev",
+          "llm",
+          "robotics",
+          "robotics-algorithms",
+          "robotics-control",
+          "robotics-simulation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "atria-asi/Atria-Dawn-Preview",
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+        "stars": 538,
+        "description": "",
+        "topics": [
+          "llm",
+          "llm-agent"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
