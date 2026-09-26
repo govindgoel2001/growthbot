@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-09-26T09:47:33.478112+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "jev-chat/jev-chat-jarvis",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "stars": 6586,
+        "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+        "topics": [
+          "accessibility-service",
+          "android",
+          "chat-assistant",
+          "llm",
+          "qq"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "yibie/awesome-jev",
+        "url": "https://github.com/yibie/awesome-jev",
+        "stars": 1705,
+        "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "jev",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "stars": 832,
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "topics": [
+          "claude-code",
+          "codex",
+          "deepseek",
+          "gemini-cli",
+          "llm",
+          "macos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "freestylefly/WeChatBridge",
+        "url": "https://github.com/freestylefly/WeChatBridge",
+        "stars": 760,
+        "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
+        "topics": [
+          "ai-agent",
+          "chat-history",
+          "macos",
+          "obsidian",
+          "share-extension",
+          "swift",
+          "wechat"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "nokia-applied-research/AnyJev",
+        "url": "https://github.com/nokia-applied-research/AnyJev",
+        "stars": 755,
+        "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+        "topics": [
+          "calibration",
+          "decision-model",
+          "jev",
+          "jev-model",
+          "llm",
+          "system-one",
+          "transformers",
+          "vllm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "v-modal/awesome-jev-tools",
+        "url": "https://github.com/v-modal/awesome-jev-tools",
+        "stars": 723,
+        "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "awesome-lists",
+          "jev",
+          "llm",
+          "robotics",
+          "robotics-algorithms",
+          "robotics-control",
+          "robotics-simulation"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
