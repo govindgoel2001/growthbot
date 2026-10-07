@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-07T11:39:47.850076+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "stars": 6307,
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "topics": [
+          "ai",
+          "chinese",
+          "content-curation",
+          "daily-digest",
+          "docker-compose",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "postgresql",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "stars": 4877,
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "topics": [
+          "age-of-empires",
+          "claude-code",
+          "claude-code-plugin",
+          "fal",
+          "game-assets",
+          "game-modding",
+          "mcp",
+          "modding",
+          "reverse-engineering",
+          "tmodloader"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Ebony-Vinyl/dsh-our-free-model",
+        "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+        "stars": 3017,
+        "description": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec DeepSeek V4.1 Flash\u3001Kimi K3 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "free-model",
+          "llm",
+          "model-provider",
+          "openai-compatible"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "feder-cr/invisible_playwright_mcp",
+        "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+        "stars": 2638,
+        "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+        "topics": [
+          "agentic-ai",
+          "ai-agent",
+          "ai-automation",
+          "autonomous-agents",
+          "browser",
+          "claude-code-plugin",
+          "crawler",
+          "gemini-cli-extension",
+          "job-hunting",
+          "job-search",
+          "lead-generation",
+          "llm-agent",
+          "market-research",
+          "mcp-server",
+          "model-context-protocol",
+          "playwright",
+          "productivity",
+          "scraper",
+          "web-automation",
+          "web-research"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "shader-effects-inc/shaders",
+        "url": "https://github.com/shader-effects-inc/shaders",
+        "stars": 2006,
+        "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+        "topics": [
+          "cli",
+          "javascript",
+          "mcp",
+          "react",
+          "shaders",
+          "solid",
+          "svelte",
+          "vue",
+          "webgpu-shaders"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "stars": 1899,
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
