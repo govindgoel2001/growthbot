@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-10T11:04:13.709607+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "stars": 2670,
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jiwoochris/artex-ko",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "stars": 907,
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "topics": [
+          "ai-agent",
+          "autonomous-agents",
+          "blue-team",
+          "cybersecurity",
+          "detection-engineering",
+          "i18n",
+          "korean",
+          "llm",
+          "penetration-testing",
+          "security",
+          "security-research",
+          "security-tools",
+          "sigma-rules",
+          "threat-detection"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "GanyuanRan/Autoloom",
+        "url": "https://github.com/GanyuanRan/Autoloom",
+        "stars": 619,
+        "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. \u5c06\u54f2\u79d1\u601d\u7ef4\u878d\u5165 AI \u5f00\u53d1\u6267\u884c\uff0c\u8ba9\u53d8\u66f4\u6709\u4f9d\u636e\u3001\u4ea4\u4ed8\u6709\u8bc1\u636e\u3002\u7528\u521b\u610f\u7f16\u7ec7\u73b0\u5b9e\u3002",
+        "topics": [
+          "aegis",
+          "agentic-coding",
+          "ai-agent",
+          "ai-coding",
+          "coding-agent",
+          "deepseek-harness",
+          "desktop-app",
+          "developer-tools",
+          "engineering-governance",
+          "software-development"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "iamlukethedev/Herald-OS",
+        "url": "https://github.com/iamlukethedev/Herald-OS",
+        "stars": 376,
+        "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+        "topics": [
+          "ai-agent",
+          "desktop-environment",
+          "fedora",
+          "hermes-agent",
+          "hyprland",
+          "linux",
+          "macos",
+          "niri",
+          "omarchy",
+          "operating-system"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "TannerMidd/pi-pocket",
+        "url": "https://github.com/TannerMidd/pi-pocket",
+        "stars": 317,
+        "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "mobile",
+          "multiplayer",
+          "omarchy",
+          "pi",
+          "pi-durable",
+          "pwa",
+          "self-hosted"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "cv-cat/catbus",
+        "url": "https://github.com/cv-cat/catbus",
+        "stars": 288,
+        "description": "\u4e00\u4e2a\u547d\u4ee4\u64cd\u4f5c\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5feb\u624b\u3001\u5fae\u535a\u3001\u95f2\u9c7c\u3001\u6dd8\u5b9d\u3001\u4eac\u4e1c\u3001X\uff1a\u7edf\u4e00\u7684\u547d\u4ee4\u4e0e JSON \u8f93\u51fa\uff0c\u7ed9\u4eba\u548c AI Agent \u7528",
+        "topics": [
+          "ai-agent",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "crawler",
+          "douyin",
+          "jd",
+          "kuaishou",
+          "nodejs",
+          "rednote",
+          "spider",
+          "taobao",
+          "tiktok",
+          "twitter",
+          "typescript",
+          "weibo",
+          "xianyu",
+          "xiaohongshu"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
