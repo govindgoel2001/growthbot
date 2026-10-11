@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-10-11T11:20:47.238033+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "stars": 7127,
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "topics": [
+          "ai",
+          "chinese",
+          "content-curation",
+          "daily-digest",
+          "docker-compose",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "postgresql",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "stars": 6500,
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "topics": [
+          "age-of-empires",
+          "claude-code",
+          "claude-code-plugin",
+          "fal",
+          "game-assets",
+          "game-modding",
+          "mcp",
+          "modding",
+          "reverse-engineering",
+          "tmodloader"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "shader-effects-inc/shaders",
+        "url": "https://github.com/shader-effects-inc/shaders",
+        "stars": 4266,
+        "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+        "topics": [
+          "cli",
+          "javascript",
+          "mcp",
+          "react",
+          "shaders",
+          "solid",
+          "svelte",
+          "vue",
+          "webgpu-shaders"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "stars": 2846,
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "stars": 2100,
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "topics": [
+          "ai",
+          "dividends",
+          "etf",
+          "finance",
+          "financial-planning",
+          "fintech",
+          "investing",
+          "llm",
+          "net-worth",
+          "personal-finance",
+          "portfolio-tracker",
+          "self-hosted",
+          "stocks",
+          "wealth-management"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "stars": 1846,
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese",
+          "linter",
+          "llm",
+          "nlp",
+          "writing",
+          "writing-assistant",
+          "writing-tool"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
