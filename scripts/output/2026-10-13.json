@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-10-13T12:34:40.601293+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "stars": 7240,
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "topics": [
+          "age-of-empires",
+          "claude-code",
+          "claude-code-plugin",
+          "fal",
+          "game-assets",
+          "game-modding",
+          "mcp",
+          "modding",
+          "reverse-engineering",
+          "tmodloader"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "stars": 3260,
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram",
+          "dsh-plugin",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "stars": 3071,
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "topics": [
+          "ai",
+          "dividends",
+          "etf",
+          "finance",
+          "financial-planning",
+          "fintech",
+          "investing",
+          "llm",
+          "net-worth",
+          "personal-finance",
+          "portfolio-tracker",
+          "self-hosted",
+          "stocks",
+          "wealth-management"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "stars": 1936,
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese",
+          "linter",
+          "llm",
+          "nlp",
+          "writing",
+          "writing-assistant",
+          "writing-tool"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "bherbruck/solidcraft",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "stars": 1440,
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "topics": [
+          "3d-modeling",
+          "brep",
+          "cad",
+          "egui",
+          "mcp",
+          "parametric-cad",
+          "rust",
+          "step",
+          "wasm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jiwoochris/artex-ko",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "stars": 1419,
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "topics": [
+          "ai-agent",
+          "autonomous-agents",
+          "blue-team",
+          "cybersecurity",
+          "detection-engineering",
+          "i18n",
+          "korean",
+          "llm",
+          "penetration-testing",
+          "security",
+          "security-research",
+          "security-tools",
+          "sigma-rules",
+          "threat-detection"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
