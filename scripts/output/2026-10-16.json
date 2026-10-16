@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-10-16T09:37:28.336314+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "stars": 3855,
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "topics": [
+          "ai",
+          "dividends",
+          "etf",
+          "finance",
+          "financial-planning",
+          "fintech",
+          "investing",
+          "llm",
+          "net-worth",
+          "personal-finance",
+          "portfolio-tracker",
+          "self-hosted",
+          "stocks",
+          "wealth-management"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "bherbruck/solidcraft",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "stars": 2875,
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "topics": [
+          "3d-modeling",
+          "brep",
+          "cad",
+          "egui",
+          "mcp",
+          "parametric-cad",
+          "rust",
+          "step",
+          "wasm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "onehumanbeing/esp32-iphone-agent",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "stars": 2718,
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "computer-use",
+          "esp32",
+          "esp32-s3",
+          "iphone",
+          "llm",
+          "usb-hid"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jiwoochris/artex-global",
+        "url": "https://github.com/jiwoochris/artex-global",
+        "stars": 1567,
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "topics": [
+          "ai-agent",
+          "autonomous-agents",
+          "blue-team",
+          "cybersecurity",
+          "detection-engineering",
+          "i18n",
+          "korean",
+          "llm",
+          "penetration-testing",
+          "security",
+          "security-research",
+          "security-tools",
+          "sigma-rules",
+          "threat-detection"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "stars": 1232,
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn",
+          "shadcn-ui",
+          "tailwindcss",
+          "theme"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rociiu/talorys",
+        "url": "https://github.com/rociiu/talorys",
+        "stars": 1218,
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+        "topics": [
+          "ai-agent",
+          "cloudflare",
+          "cloudflare-workers",
+          "durable-objects",
+          "personal-assistant",
+          "react",
+          "self-hosted",
+          "typescript",
+          "workers-ai"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
