@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-10-20T09:55:40.847521+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "tangency-labs/solidcraft",
+        "url": "https://github.com/tangency-labs/solidcraft",
+        "stars": 7765,
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "topics": [
+          "3d-modeling",
+          "brep",
+          "cad",
+          "egui",
+          "mcp",
+          "parametric-cad",
+          "rust",
+          "step",
+          "wasm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "onehumanbeing/esp32-iphone-agent",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "stars": 3351,
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "computer-use",
+          "esp32",
+          "esp32-s3",
+          "iphone",
+          "llm",
+          "usb-hid"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "stars": 2387,
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn",
+          "shadcn-ui",
+          "tailwindcss",
+          "theme"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Leonxlnx/earshot",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "stars": 1717,
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "trhhubsd/ARTEX",
+        "url": "https://github.com/trhhubsd/ARTEX",
+        "stars": 1391,
+        "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
+        "topics": [
+          "ai-agent",
+          "ai-security",
+          "artex",
+          "autonomous-agents",
+          "cybersecurity",
+          "go",
+          "hacking",
+          "llm",
+          "llm-agent",
+          "mcp",
+          "nextjs",
+          "offensive-security",
+          "penetration-testing",
+          "pentest",
+          "red-team",
+          "security",
+          "security-tools",
+          "vulnerability",
+          "vulnerability-scanners",
+          "web-security"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rociiu/talorys",
+        "url": "https://github.com/rociiu/talorys",
+        "stars": 1345,
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+        "topics": [
+          "ai-agent",
+          "cloudflare",
+          "cloudflare-workers",
+          "durable-objects",
+          "personal-assistant",
+          "react",
+          "self-hosted",
+          "typescript",
+          "workers-ai"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
