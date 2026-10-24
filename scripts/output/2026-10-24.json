@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-10-24T09:23:53.659287+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "onehumanbeing/esp32-iphone-agent",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "stars": 3706,
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "computer-use",
+          "esp32",
+          "esp32-s3",
+          "iphone",
+          "llm",
+          "usb-hid"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Leonxlnx/earshot",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "stars": 2526,
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "stars": 2192,
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn",
+          "shadcn-ui",
+          "tailwindcss",
+          "theme"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "zhuyansen/new-term-radar",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "stars": 1759,
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "aisa",
+          "claude-code",
+          "claude-skills",
+          "google-trends",
+          "keyword-research",
+          "mcp",
+          "mcp-server",
+          "seo",
+          "trends"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Sam-Hui-dot/mcd-budget-meal",
+        "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
+        "stars": 1206,
+        "description": "\u9ea6\u9ea6\u9884\u7b97\u9910\uff1a\u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u771f\u5b9e\u6838\u4ef7\u3001\u9884\u7b97\u6bd4\u8f83\u4e0e\u9910\u54c1\u66ff\u6362 Skill",
+        "topics": [
+          "mcdonalds",
+          "mcp",
+          "python",
+          "skill",
+          "workbuddy"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jwuthri-cloud/Tracely-ai",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "stars": 1160,
+        "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "ai-testing",
+          "ci-cd",
+          "clickhouse",
+          "developer-tools",
+          "llm-evaluation",
+          "llm-observability",
+          "llmops",
+          "mcp",
+          "observability",
+          "python",
+          "regression-testing",
+          "self-hosted",
+          "tracing"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
