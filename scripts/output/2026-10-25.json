@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-10-25T09:42:42.612830+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "Leonxlnx/earshot",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "stars": 2688,
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "stars": 2199,
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn",
+          "shadcn-ui",
+          "tailwindcss",
+          "theme"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "zhuyansen/new-term-radar",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "stars": 1778,
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "aisa",
+          "claude-code",
+          "claude-skills",
+          "google-trends",
+          "keyword-research",
+          "mcp",
+          "mcp-server",
+          "seo",
+          "trends"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "reason-machines/reason-network",
+        "url": "https://github.com/reason-machines/reason-network",
+        "stars": 1209,
+        "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "topics": [
+          "coding-agents",
+          "iroh",
+          "mcp",
+          "peer-to-peer",
+          "reason"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "outcrawlai/scout",
+        "url": "https://github.com/outcrawlai/scout",
+        "stars": 938,
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "browser-automation",
+          "cdp",
+          "llm",
+          "typescript",
+          "web-automation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "stars": 646,
+        "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
+        "topics": [
+          "ai-agents",
+          "cross-border-ecommerce",
+          "ecommerce",
+          "llm",
+          "mercado-livre",
+          "prompt-engineering",
+          "shopee",
+          "sop",
+          "workflow-automation"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
