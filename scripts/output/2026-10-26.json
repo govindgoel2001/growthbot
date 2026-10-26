@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-10-26T10:56:08.992038+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "Leonxlnx/earshot",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "stars": 2846,
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 1406,
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "topics": [
+          "adb",
+          "ai-agent",
+          "android",
+          "coloros",
+          "debloat",
+          "hyperos",
+          "magicos",
+          "originos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "reason-machines/reason-network",
+        "url": "https://github.com/reason-machines/reason-network",
+        "stars": 1250,
+        "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "topics": [
+          "coding-agents",
+          "iroh",
+          "mcp",
+          "peer-to-peer",
+          "reason"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "outcrawlai/scout",
+        "url": "https://github.com/outcrawlai/scout",
+        "stars": 939,
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "browser-automation",
+          "cdp",
+          "llm",
+          "typescript",
+          "web-automation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "stars": 686,
+        "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
+        "topics": [
+          "ai-agents",
+          "cross-border-ecommerce",
+          "ecommerce",
+          "llm",
+          "mercado-livre",
+          "prompt-engineering",
+          "shopee",
+          "sop",
+          "workflow-automation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "i12bp8/decomp.wtf",
+        "url": "https://github.com/i12bp8/decomp.wtf",
+        "stars": 540,
+        "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "decomp",
+          "decompilation",
+          "decompiler",
+          "matching-decompilation",
+          "mcp",
+          "n64",
+          "recomp",
+          "recompilation",
+          "recompiler",
+          "retro-gaming",
+          "reverse-engineering"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
