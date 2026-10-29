@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-10-29T11:24:52.426567+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 4593,
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "topics": [
+          "adb",
+          "ai-agent",
+          "android",
+          "coloros",
+          "debloat",
+          "hyperos",
+          "magicos",
+          "originos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "reason-machines/reason-network",
+        "url": "https://github.com/reason-machines/reason-network",
+        "stars": 1317,
+        "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "topics": [
+          "coding-agents",
+          "iroh",
+          "mcp",
+          "peer-to-peer",
+          "reason"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "reacher-z/Awesome-REA",
+        "url": "https://github.com/reacher-z/Awesome-REA",
+        "stars": 582,
+        "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "android-reverse-engineering",
+          "awesome-list",
+          "binary-analysis",
+          "decompilation",
+          "firmware-analysis",
+          "game-reversing",
+          "ghidra",
+          "ios-reverse-engineering",
+          "javascript-deobfuscation",
+          "mcp",
+          "protocol-analysis",
+          "rea",
+          "research-papers",
+          "reverse-engineering",
+          "web-reverse-engineering"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "C4rohan/Lampline",
+        "url": "https://github.com/C4rohan/Lampline",
+        "stars": 547,
+        "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat",
+          "self-hosted",
+          "sip",
+          "speech-to-text",
+          "text-to-speech",
+          "voice-agents",
+          "voice-ai"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "kanaworksai-hue/audio-studio-mcp",
+        "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+        "stars": 534,
+        "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+        "topics": [
+          "apple-silicon",
+          "audio-generation",
+          "claude-code",
+          "cuda",
+          "game-audio",
+          "mcp",
+          "mcp-server",
+          "mlx",
+          "music-generation",
+          "pytorch",
+          "sound-effects",
+          "stable-audio",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "MemTensor/MemT-1.0",
+        "url": "https://github.com/MemTensor/MemT-1.0",
+        "stars": 466,
+        "description": "Official repository for MemT-1.0",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory",
+          "qwen",
+          "sglang"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
