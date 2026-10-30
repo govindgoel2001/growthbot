@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-10-30T11:16:59.332149+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 4940,
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "topics": [
+          "adb",
+          "ai-agent",
+          "android",
+          "coloros",
+          "debloat",
+          "hyperos",
+          "magicos",
+          "originos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "ccch1mneyyy/dsh-Go",
+        "url": "https://github.com/ccch1mneyyy/dsh-Go",
+        "stars": 1586,
+        "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-app",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "dsh-tui",
+          "flutter",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "qybaihe/bla",
+        "url": "https://github.com/qybaihe/bla",
+        "stars": 1147,
+        "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "reverse-engineering",
+          "webassembly"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "C4rohan/Lampline",
+        "url": "https://github.com/C4rohan/Lampline",
+        "stars": 547,
+        "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat",
+          "self-hosted",
+          "sip",
+          "speech-to-text",
+          "text-to-speech",
+          "voice-agents",
+          "voice-ai"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "kanaworksai-hue/audio-studio-mcp",
+        "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+        "stars": 541,
+        "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+        "topics": [
+          "apple-silicon",
+          "audio-generation",
+          "claude-code",
+          "cuda",
+          "game-audio",
+          "mcp",
+          "mcp-server",
+          "mlx",
+          "music-generation",
+          "pytorch",
+          "sound-effects",
+          "stable-audio",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "hevnsnt/CVEngine",
+        "url": "https://github.com/hevnsnt/CVEngine",
+        "stars": 518,
+        "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+        "topics": [
+          "ai",
+          "attack-surface-management",
+          "bbot",
+          "cybersecurity",
+          "mcp",
+          "nmap",
+          "nuclei",
+          "vulnerability-scanner"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
