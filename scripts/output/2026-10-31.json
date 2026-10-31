@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-10-31T10:49:40.809734+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 5243,
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "topics": [
+          "adb",
+          "ai-agent",
+          "android",
+          "coloros",
+          "debloat",
+          "hyperos",
+          "magicos",
+          "originos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "ccch1mneyyy/dsh-Go",
+        "url": "https://github.com/ccch1mneyyy/dsh-Go",
+        "stars": 3135,
+        "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-app",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "dsh-tui",
+          "flutter",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "wangzan101/Mika",
+        "url": "https://github.com/wangzan101/Mika",
+        "stars": 2076,
+        "description": "Mika \u2014 \u4f60\u624b\u673a\u4e0a\u7684\u79c1\u4eba AI \u52a9\u7406\uff0c\u66ff\u4f60\u64cd\u4f5c App\u3001\u4e0a\u7f51\u3001\u628a\u4e8b\u529e\u6210\u3002An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "qybaihe/bla",
+        "url": "https://github.com/qybaihe/bla",
+        "stars": 1579,
+        "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "reverse-engineering",
+          "webassembly"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "jackwener/DSH-Android",
+        "url": "https://github.com/jackwener/DSH-Android",
+        "stars": 575,
+        "description": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
+        "topics": [
+          "ai-agent",
+          "android",
+          "deepseek",
+          "deepseek-harness",
+          "llm",
+          "phone-agent",
+          "shizuku"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "C4rohan/Lampline",
+        "url": "https://github.com/C4rohan/Lampline",
+        "stars": 548,
+        "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat",
+          "self-hosted",
+          "sip",
+          "speech-to-text",
+          "text-to-speech",
+          "voice-agents",
+          "voice-ai"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
