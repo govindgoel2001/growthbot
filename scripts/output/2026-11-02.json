@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-11-02T13:19:22.075463+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 5841,
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "topics": [
+          "adb",
+          "ai-agent",
+          "android",
+          "coloros",
+          "debloat",
+          "hyperos",
+          "magicos",
+          "originos"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "ccch1mneyyy/dsh-Go",
+        "url": "https://github.com/ccch1mneyyy/dsh-Go",
+        "stars": 5504,
+        "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-app",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "dsh-tui",
+          "flutter",
+          "llm"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "wangzan101/Mika",
+        "url": "https://github.com/wangzan101/Mika",
+        "stars": 4918,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "qybaihe/bla",
+        "url": "https://github.com/qybaihe/bla",
+        "stars": 1947,
+        "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "reverse-engineering",
+          "webassembly"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "modelflare-ai/AnyModelBot",
+        "url": "https://github.com/modelflare-ai/AnyModelBot",
+        "stars": 1249,
+        "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and",
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "chatbot",
+          "claude",
+          "computer-use",
+          "deepseek",
+          "desktop-app",
+          "dsh",
+          "electron",
+          "feishu",
+          "gemini",
+          "gpt",
+          "grok",
+          "llm",
+          "local-first",
+          "modelflare",
+          "multi-model",
+          "openai-compatible",
+          "personal-ai-agent",
+          "wechat"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "emanuele-em/kanzo",
+        "url": "https://github.com/emanuele-em/kanzo",
+        "stars": 769,
+        "description": "Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "kanban",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "productivity",
+          "project-management",
+          "raspberry-pi",
+          "rust",
+          "self-hosted",
+          "sqlite",
+          "task-manager"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
