@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-11-10T13:22:58.017387+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "wangzan101/Mika",
+        "url": "https://github.com/wangzan101/Mika",
+        "stars": 8006,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "KKKKhazix/agent-autoloop",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 4393,
+        "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "claude-code",
+          "cli",
+          "codex",
+          "event-driven",
+          "mcp",
+          "nodejs",
+          "self-hosted",
+          "typescript",
+          "workflow"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "lexifina/global-law",
+        "url": "https://github.com/lexifina/global-law",
+        "stars": 1914,
+        "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+        "topics": [
+          "git",
+          "law",
+          "legal-tech",
+          "legislation",
+          "mcp",
+          "open-data"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "N1nEmAn/sapper-v2",
+        "url": "https://github.com/N1nEmAn/sapper-v2",
+        "stars": 1846,
+        "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "topics": [
+          "ai-agents",
+          "autonomous-agents",
+          "claude-code",
+          "ctf",
+          "llm",
+          "multi-agent",
+          "pentest"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Sandflow-ai/sand3d",
+        "url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 1711,
+        "description": "3D modeling in Python, built for LLMs.",
+        "topics": [
+          "3d",
+          "blender",
+          "cad",
+          "llm",
+          "procedural-modeling",
+          "python",
+          "usd"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "JosssphZhou/poki",
+        "url": "https://github.com/JosssphZhou/poki",
+        "stars": 875,
+        "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "ios",
+          "iphone",
+          "mcp",
+          "model-context-protocol"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
