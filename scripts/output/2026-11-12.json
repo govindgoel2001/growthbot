@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-11-12T13:39:12.600974+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "KKKKhazix/agent-autoloop",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 4632,
+        "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "claude-code",
+          "cli",
+          "codex",
+          "event-driven",
+          "mcp",
+          "nodejs",
+          "self-hosted",
+          "typescript",
+          "workflow"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "N1nEmAn/sapper-v2",
+        "url": "https://github.com/N1nEmAn/sapper-v2",
+        "stars": 2014,
+        "description": "The first fruit of the N\u00fcwa tree \u2014 an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the N\u00fcwa Foundation (Create/Language/History).",
+        "topics": [
+          "agentic-workflows",
+          "ai-agents",
+          "ai-security",
+          "autonomous-agents",
+          "claude-code",
+          "ctf",
+          "cybersecurity",
+          "fact-graph",
+          "llm",
+          "multi-agent",
+          "pentest",
+          "swarm-intelligence"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Sandflow-ai/sand3d",
+        "url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 1907,
+        "description": "3D modeling in Python, built for LLMs.",
+        "topics": [
+          "3d",
+          "blender",
+          "cad",
+          "llm",
+          "procedural-modeling",
+          "python",
+          "usd"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "RunanywhereAI/trnrt",
+        "url": "https://github.com/RunanywhereAI/trnrt",
+        "stars": 1472,
+        "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+        "topics": [
+          "aws",
+          "glm",
+          "inference",
+          "llm",
+          "llm-serving",
+          "megakernels",
+          "neuron",
+          "nki",
+          "openai-api",
+          "trainium"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Marcian15350/mt5-tradeprotocol",
+        "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
+        "stars": 1103,
+        "description": "",
+        "topics": [
+          "algorithmic-trading-quantitative",
+          "crypto",
+          "foreign-exchange",
+          "forex",
+          "mcp",
+          "metatrader-5",
+          "metatrader-desktop",
+          "metatrader4",
+          "mql5",
+          "mt4",
+          "mt5",
+          "mt5-strategy"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "JosssphZhou/poki",
+        "url": "https://github.com/JosssphZhou/poki",
+        "stars": 1016,
+        "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "ios",
+          "iphone",
+          "mcp",
+          "model-context-protocol"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
