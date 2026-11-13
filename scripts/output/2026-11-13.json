@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-11-13T12:57:26.048641+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "KKKKhazix/agent-autoloop",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 5058,
+        "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "claude-code",
+          "cli",
+          "codex",
+          "event-driven",
+          "mcp",
+          "nodejs",
+          "self-hosted",
+          "typescript",
+          "workflow"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "stars": 2061,
+        "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+        "topics": [
+          "ai-agent",
+          "android",
+          "claude-code",
+          "ios",
+          "iphone",
+          "mcp",
+          "mcp-server",
+          "phone-automation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Sandflow-ai/sand3d",
+        "url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 1950,
+        "description": "3D modeling in Python, built for LLMs.",
+        "topics": [
+          "3d",
+          "blender",
+          "cad",
+          "llm",
+          "procedural-modeling",
+          "python",
+          "usd"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "agentes-chat/agentes-chat",
+        "url": "https://github.com/agentes-chat/agentes-chat",
+        "stars": 1278,
+        "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration",
+          "computer-use",
+          "docker-compose",
+          "gemini",
+          "grok",
+          "human-in-the-loop",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "openai",
+          "self-hosted",
+          "slack-alternative",
+          "team-chat"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "FrigadeHQ/yogurt",
+        "url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 1136,
+        "description": "Private AI meeting notes. Free and open source.",
+        "topics": [
+          "ai-meeting-assistant",
+          "electron",
+          "linux",
+          "llama-cpp",
+          "local-ai",
+          "macos",
+          "mcp",
+          "meeting-notes",
+          "open-source",
+          "privacy",
+          "speech-to-text",
+          "transcription",
+          "whisper",
+          "whisper-cpp",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "Marcian15350/mt5-tradeprotocol",
+        "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
+        "stars": 1103,
+        "description": "",
+        "topics": [
+          "algorithmic-trading-quantitative",
+          "crypto",
+          "foreign-exchange",
+          "forex",
+          "mcp",
+          "metatrader-5",
+          "metatrader-desktop",
+          "metatrader4",
+          "mql5",
+          "mt4",
+          "mt5",
+          "mt5-strategy"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
