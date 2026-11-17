@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-11-17T14:14:31.623309+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "hitkeeen/blender-ai-mcp-addon",
+        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+        "stars": 2390,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "claude",
+          "gemini",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "ollama",
+          "opencode"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "stars": 2350,
+        "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+        "topics": [
+          "ai-agent",
+          "android",
+          "claude-code",
+          "ios",
+          "iphone",
+          "mcp",
+          "mcp-server",
+          "phone-automation"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "FrigadeHQ/yogurt",
+        "url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 1959,
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "topics": [
+          "ai-meeting-assistant",
+          "ai-notetaker",
+          "electron",
+          "granola-alternative",
+          "linux",
+          "llama-cpp",
+          "local-ai",
+          "local-first",
+          "macos",
+          "mcp",
+          "meeting-minutes",
+          "meeting-notes",
+          "offline-first",
+          "open-source",
+          "privacy",
+          "speech-to-text",
+          "transcription",
+          "whisper",
+          "whisper-cpp",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "agentes-chat/agentes-chat",
+        "url": "https://github.com/agentes-chat/agentes-chat",
+        "stars": 1666,
+        "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration",
+          "computer-use",
+          "docker-compose",
+          "gemini",
+          "grok",
+          "human-in-the-loop",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "openai",
+          "self-hosted",
+          "slack-alternative",
+          "team-chat"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "JosssphZhou/poki",
+        "url": "https://github.com/JosssphZhou/poki",
+        "stars": 1556,
+        "description": "Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "ios",
+          "iphone",
+          "mcp",
+          "model-context-protocol"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "hyperionaidev/smolmaxxing",
+        "url": "https://github.com/hyperionaidev/smolmaxxing",
+        "stars": 933,
+        "description": "maxxing the ability to run different LLMs on the smallest devices possible",
+        "topics": [
+          "edge-ai",
+          "llama-cpp",
+          "llama-cpp-alternative",
+          "llm",
+          "local-llm",
+          "local-llm-support",
+          "on-device",
+          "quantization",
+          "quantization-algorithms"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
