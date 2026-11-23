@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-11-23T15:49:56.314001+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 8556,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "code-migration",
+          "codex",
+          "ffi",
+          "golang",
+          "java",
+          "javascript",
+          "mcp",
+          "migration",
+          "napi",
+          "performance",
+          "porting",
+          "pyo3",
+          "python",
+          "rewrite",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "FrigadeHQ/yogurt",
+        "url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 3045,
+        "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
+        "topics": [
+          "ai-meeting-assistant",
+          "ai-notetaker",
+          "electron",
+          "granola-alternative",
+          "linux",
+          "llama-cpp",
+          "local-ai",
+          "local-first",
+          "macos",
+          "mcp",
+          "meeting-minutes",
+          "meeting-notes",
+          "offline-first",
+          "open-source",
+          "privacy",
+          "speech-to-text",
+          "transcription",
+          "whisper",
+          "whisper-cpp",
+          "windows"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 2885,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "developer-tools",
+          "ffi",
+          "mcp",
+          "mcp-server",
+          "napi-rs",
+          "nodejs",
+          "optimization",
+          "performance",
+          "profiler",
+          "pyo3",
+          "python",
+          "rewrite-it-in-rust",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "stars": 2763,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "claude",
+          "gemini",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "ollama",
+          "opencode"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "XinaTian/MROffice",
+        "url": "https://github.com/XinaTian/MROffice",
+        "stars": 2722,
+        "description": "MR Office \u2014 the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and e",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "claude-code",
+          "codex",
+          "copilot",
+          "cursor",
+          "document-editor",
+          "docx",
+          "embed",
+          "excel",
+          "mcp",
+          "mcp-server",
+          "microsoft-office-alternative",
+          "office-suite",
+          "pdf-editor",
+          "powerpoint",
+          "pptx",
+          "spreadsheet",
+          "word",
+          "xlsx"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 2073,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "topics": [
+          "agent-skill",
+          "benchmarking",
+          "claude-code",
+          "inference",
+          "llm",
+          "speculative-decoding"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
