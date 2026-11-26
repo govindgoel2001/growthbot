@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-11-26T14:56:19.578106+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 9927,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "code-migration",
+          "codex",
+          "ffi",
+          "golang",
+          "java",
+          "javascript",
+          "mcp",
+          "migration",
+          "napi",
+          "performance",
+          "porting",
+          "pyo3",
+          "python",
+          "rewrite",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 4155,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "developer-tools",
+          "ffi",
+          "mcp",
+          "mcp-server",
+          "napi-rs",
+          "nodejs",
+          "optimization",
+          "performance",
+          "profiler",
+          "pyo3",
+          "python",
+          "rewrite-it-in-rust",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 2782,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "topics": [
+          "agent-skill",
+          "benchmarking",
+          "claude-code",
+          "inference",
+          "llm",
+          "speculative-decoding"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "pierridotite/mobile-agent-testers",
+        "url": "https://github.com/pierridotite/mobile-agent-testers",
+        "stars": 2456,
+        "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+        "topics": [
+          "accessibility-testing",
+          "ai-agents",
+          "ai-testing",
+          "android",
+          "android-emulator",
+          "claude",
+          "claude-code",
+          "e2e-testing",
+          "exploratory-testing",
+          "expo",
+          "flutter",
+          "github-actions",
+          "ios",
+          "ios-simulator",
+          "llm",
+          "mobile-testing",
+          "qa",
+          "react-native",
+          "test-automation",
+          "ui-testing"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "INK-Q/agy-fast",
+        "url": "https://github.com/INK-Q/agy-fast",
+        "stars": 1666,
+        "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+        "topics": [
+          "ai-agent",
+          "ai-coding",
+          "antigravity",
+          "antigravity-cli",
+          "antigravity-ide",
+          "antigravity-plugins",
+          "coding-agent",
+          "context-optimization",
+          "developer-productivity",
+          "developer-tools",
+          "gemini",
+          "google-antigravity",
+          "latency-optimization",
+          "mcp",
+          "mcp-plugin",
+          "mcp-server",
+          "model-context-protocol",
+          "performance",
+          "plugin",
+          "token-optimization"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "opensetlabs/openset-llm",
+        "url": "https://github.com/opensetlabs/openset-llm",
+        "stars": 1414,
+        "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+        "topics": [
+          "ai",
+          "avx512",
+          "cpu-inference",
+          "edge-ai",
+          "gguf",
+          "inference-engine",
+          "llama-cpp",
+          "llm",
+          "llm-inference",
+          "local-ai",
+          "local-llm",
+          "no-gpu",
+          "on-device-ai",
+          "openai-api",
+          "openai-compatible",
+          "quantization",
+          "qwen",
+          "self-hosted",
+          "speculative-decoding",
+          "ternary"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
