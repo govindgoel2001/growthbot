@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-11-27T14:52:23.286023+00:00",
+  "items": [
+    {
+      "repo": {
+        "full_name": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 10617,
+        "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "code-migration",
+          "codex",
+          "ffi",
+          "golang",
+          "java",
+          "javascript",
+          "mcp",
+          "migration",
+          "napi",
+          "performance",
+          "porting",
+          "pyo3",
+          "python",
+          "rewrite",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 4403,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "developer-tools",
+          "ffi",
+          "mcp",
+          "mcp-server",
+          "napi-rs",
+          "nodejs",
+          "optimization",
+          "performance",
+          "profiler",
+          "pyo3",
+          "python",
+          "rewrite-it-in-rust",
+          "ruby",
+          "rust",
+          "typescript"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 2863,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "topics": [
+          "agent-skill",
+          "benchmarking",
+          "claude-code",
+          "inference",
+          "llm",
+          "speculative-decoding"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "pierridotite/mobile-agent-testers",
+        "url": "https://github.com/pierridotite/mobile-agent-testers",
+        "stars": 2578,
+        "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+        "topics": [
+          "accessibility-testing",
+          "ai-agents",
+          "ai-testing",
+          "android",
+          "android-emulator",
+          "claude",
+          "claude-code",
+          "e2e-testing",
+          "exploratory-testing",
+          "expo",
+          "flutter",
+          "github-actions",
+          "ios",
+          "ios-simulator",
+          "llm",
+          "mobile-testing",
+          "qa",
+          "react-native",
+          "test-automation",
+          "ui-testing"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "nexu-io/opengame",
+        "url": "https://github.com/nexu-io/opengame",
+        "stars": 1891,
+        "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "ai-game-generator",
+          "claude-code",
+          "codex",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "game-development",
+          "game-engine",
+          "indie-game",
+          "local-first",
+          "mcp",
+          "mini-games",
+          "threejs",
+          "unity",
+          "unreal-engine",
+          "vibe-coding",
+          "wechat-minigame"
+        ]
+      },
+      "scripts": {}
+    },
+    {
+      "repo": {
+        "full_name": "alesha-pro/llm.asm",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "stars": 1889,
+        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "topics": [
+          "assembly",
+          "avx2",
+          "bare-metal",
+          "llm",
+          "machine-learning",
+          "nasm",
+          "osdev",
+          "qwen",
+          "transformer",
+          "x86-64"
+        ]
+      },
+      "scripts": {}
+    }
+  ]
+}
